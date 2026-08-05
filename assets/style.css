@@ -107,6 +107,7 @@ header.site{display:flex; align-items:center; justify-content:space-between; pad
 .about-page{max-width:680px; margin:0 auto; padding:40px 24px 80px;}
 .about-title{font-family:var(--serif-display); font-size:2.4rem; font-weight:900; margin:14px 0 8px;}
 .about-lede{font-size:.85rem; letter-spacing:.1em; color:var(--ink-faint); margin-bottom:36px;}
+.about-tree{display:block; width:100%; max-width:340px; margin:0 auto 40px;}
 .about-fable{margin:0 0 40px; padding:28px 30px; background:var(--paper-warm); border-left:4px solid var(--gold);}
 .about-fable p{font-family:var(--serif-display); font-size:1.1rem; line-height:2.2; color:var(--ink); margin-bottom:16px;}
 .about-fable p:last-child{margin-bottom:0;}
