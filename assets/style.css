@@ -38,10 +38,10 @@ header.site{display:flex; align-items:center; justify-content:space-between; pad
 .hh-cue{position:absolute; bottom:26px; left:0; right:0; text-align:center; z-index:2; color:rgba(242,236,221,.6); font-size:1.1rem; animation:exbob 2s ease-in-out infinite;}
 
 /* ---------- 宣言 ---------- */
-.manifesto{max-width:660px; margin:0 auto; padding:88px 24px 64px; text-align:center; font-family:var(--serif-display);}
-.manifesto p{font-size:1.12rem; line-height:2.3; color:var(--ink-soft);}
-.manifesto .mf-strong{margin-top:34px; color:var(--ink); font-size:1.2rem;}
-.manifesto em{font-style:normal; color:var(--gold); border-bottom:3px solid rgba(168,63,42,.35); padding-bottom:2px;}
+.seed-manifesto{max-width:720px; margin:0 auto; padding:88px 24px 88px; text-align:center;}
+.sm-title{font-family:var(--serif-display); font-size:2.4rem; font-weight:900; letter-spacing:.06em; margin:0 0 30px; color:var(--ink);}
+.seed-manifesto p{font-family:var(--serif); font-size:1.05rem; line-height:2.15; color:var(--ink-soft); margin-bottom:20px;}
+.seed-manifesto .sm-strong{margin-top:30px; font-family:var(--serif-display); font-size:1.15rem; color:var(--ink);}
 
 /* ---------- 展厅CTA ---------- */
 .exhibit-cta{display:flex; align-items:baseline; justify-content:center; gap:18px; background:#141414; color:#f0ece3; padding:30px 20px; margin:36px 0;}
