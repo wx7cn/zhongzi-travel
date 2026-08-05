@@ -1,0 +1,1124 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387931471/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "奔走在东京街头的日子"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "日本·东京 · 2006-03-03 起 · 23张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "日本·东京"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2006-03-03 13:59:39 ~ 2006-03-05 12:53:32"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387931471.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "奔走在东京街头的日子"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 13:59:39"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/001"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 16:29:47"
+    ]
+   },
+   "width": 960,
+   "height": 1445,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1445
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 16:38:17"
+    ]
+   },
+   "width": 960,
+   "height": 1445,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1445
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 16:45:22"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 17:14:19"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 17:18:49"
+    ]
+   },
+   "width": 960,
+   "height": 1445,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1445
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 17:47:03"
+    ]
+   },
+   "width": 960,
+   "height": 1445,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1445
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 22:19:34"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-03 23:03:34"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-04 08:48:45"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-04 09:41:09"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-04 10:00:18"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-04 11:20:10"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 08:29:06"
+    ]
+   },
+   "width": 960,
+   "height": 1445,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1445
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 09:39:24"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 09:45:01"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 09:48:48"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/018",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 09:52:28"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/018/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/018/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/018"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/019",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 11:38:14"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/019/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/019/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/019"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/020",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 11:52:18"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/020/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/020/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/020"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/021",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 12:05:40"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/021/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/021/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/021"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/022",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 12:28:10"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/022/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/022/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/022.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/022"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/canvas/023",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-03-05 12:53:32"
+    ]
+   },
+   "width": 960,
+   "height": 1445,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931471/canvas/023/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931471/canvas/023/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931471/img/023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1445
+       },
+       "target": "https://chenxu.life/iiif/2387931471/canvas/023"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "奔走在东京街头的日子"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

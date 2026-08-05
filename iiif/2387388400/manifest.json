@@ -1,0 +1,848 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387388400/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "美国间谍卫星发现了客家土楼"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "福建·客家土楼 · 2018-03-07 起 · 17张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "福建·客家土楼"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2018-03-07 14:44:06 ~ 2018-03-12 18:45:00"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387388400.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "美国间谍卫星发现了客家土楼"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 14:44:06"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/001"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 14:51:50"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 14:52:31"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 14:53:02"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 14:55:22"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 15:14:37"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 15:21:37"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 15:59:13"
+    ]
+   },
+   "width": 960,
+   "height": 1444,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1444
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 16:31:28"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 16:35:17"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 16:36:02"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 16:37:55"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 16:52:06"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 16:53:24"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 17:24:40"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-07 17:38:31"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-03-12 18:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387388400/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387388400/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387388400/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387388400/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美国间谍卫星发现了客家土楼"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

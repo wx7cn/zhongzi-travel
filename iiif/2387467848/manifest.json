@@ -1,0 +1,8176 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387467848/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "首航揭开诺唯真喜悦号的面纱"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "邮轮·喜悦号 · 2017-06-16 起 · 176张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "邮轮·喜悦号"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2017-06-16 06:31:00 ~ 2017-07-25 13:21:00"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387467848.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "首航揭开诺唯真喜悦号的面纱"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 13:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/001"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 又一艘16.9万吨级亚洲最大船来了，诺唯真喜悦号在德国建造，是诺唯真游轮 首艘专为中国客户量身定制的游轮，船体上的彩绘也是请中央美术学院的谭平院长 定制设计的，设计灵感来自于一种古老的神话生灵—凤凰。从古至今，凤凰元素在 中国的绘画、丝织品和建筑装饰等领域中随处可见。凤凰是美丽的象征，也是传递 吉祥如意的美好祝愿。   任逍遥作为诺唯真游轮公司的战略合作伙伴的也是 华北地区核心销售代理公司之一，这次也受邀参与了首航体验。这真是一年一条新 船一年一个新体验，请叫我们试船员……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 13:55:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 由中国第一家教育媒体产业门户“决胜网”与任逍遥联合主办的“育筹天下 决胜 未来”·决胜网新品发布会安排在了体验航次上，既然是教育圈的活动，体验自然 是从船上5楼的欢乐儿童中心开始。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 13:58:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 欢乐儿童中心的船员自己习作的蜡笔画，手指真漂亮！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 14:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 欢乐儿童中心的色调温暖舒适，电子触摸屏的互动游戏很具时尚感，教育圈的交流 放在这里形式和内容都合上拍了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 14:07:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 对什么人说什么话"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 14:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 洗手池和小便池都是大孩子用大的小孩子用小的。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 14:58:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼的预订中心，可以在这里为20多个特色餐厅订座，也可以预约卡丁车、星际 探索、SPA……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 14:59:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼的服务台，在这里可以开通wifi，也可以处理一切游轮上方方面面的事情"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼的中庭酒吧，在这里可以享受到川流不息人流中的宁静，香草拿铁和红酒是这 个酒吧的特色"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:02:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼服务台旁边有一家小的咖啡店，提供星巴克标准的各种咖啡，不改变生活方式 的旅行，才是好旅行，这也是从本地生活向异地生活体验转化的最好诠释"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼服务台旁边的KTV正在举办喜乐好声音的选拔赛，我的同事王帅，据说是参 加过中国好声音的歌手，我们也给他报了名，非常期待他一鸣惊人，下船的时候才 发现这里也是一个下船的出口，但是非常隐蔽，也非常小，大量人流下船的时候是 一个瓶颈"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:15:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼凤凰歌舞俱乐部，每天晚上提供中餐和歌舞表演，每人18.8美金"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:20:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼槿樱日本料理，每天晚上提供中日韩料理，针对中国游客还提供火锅，每人2 8.8美金"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:21:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼海上铁板烧，每天晚上提供日式料理，有铁板烧牛排、海鲜和鸡肉，每人28 .8美金"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:22:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 6楼韵品餐厅，提供早中晚三餐中式桌餐，免费的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:23:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:23:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 7楼曼哈顿餐厅，是最主要的免费餐厅，每天晚上提供中西式的菜肴"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/018",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:24:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/018/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/018/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/018"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 船上7楼的购物店也像其他的一样，有化妆品，有奢侈品，有手表，但是最有特点 的是喜悦号上有一家苹果店，据说9月22日的航次在这家店会率先售卖IPHO NE8"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/019",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:25:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/019/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/019/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/019"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 7楼图片中心也有从佳能、尼康、索尼到莱卡的各种品牌的器材配件的展示和销售 ，已经比以前的游轮在品牌合作方面也有了一个质的提升"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/020",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:26:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/020/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/020/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/020"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/021",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/021/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/021/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/021"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 7楼雅悦茶舍提供中国茶在内的众多亚洲茶，从装饰到口味都非常中国，边喝茶边 欣赏6楼中庭的音乐演出也是一种不错的休息"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/022",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:28:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/022/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/022/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/022.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/022"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/023",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:29:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/023/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/023/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/023"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 小赌怡情，大赌伤身，这里从来都是最有人气的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/024",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:32:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/024/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/024/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/024.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/024"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 8楼到6楼的玄梯，曲线非常漂亮，也是一个展示的舞台，由于时间非常的紧张， 很多在这里上演的时装秀，名表秀都错过了"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/025",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:33:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/025/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/025/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/025.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/025"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/026",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:34:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/026/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/026/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/026.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/026"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/027",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/027/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/027/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/027.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/027"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 8楼的美式牛排餐厅，每天晚上提供牛排餐，每人28.8美金"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/028",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:36:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/028/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/028/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/028.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/028"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/029",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:42:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/029/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/029/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/029.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/029"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 赌场中的酒吧"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/030",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/030/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/030/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/030.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/030"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 在8楼酒窖可以品尝各种高档红酒和烈酒，也可以在精选酒单中用免税的价格购买 。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/031",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 15:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/031/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/031/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/031.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/031"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 8楼意大利餐厅，每天晚上提供意大利美食，收费18.8美金，可以在甲板户外 部分用餐。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/032",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 16:04:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/032/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/032/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/032.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/032"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/033",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 16:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/033/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/033/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/033.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/033"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 8楼的法国餐厅，只能看看样子，至于这个餐厅的法国美食是什么味道？我完全不 知道只能是留下的遗憾，未来的航次再逐步体验吧"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/034",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 16:33:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/034/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/034/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/034.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/034"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 16楼的，也是喜悦号的一个脸面，灯光和曲线都非常漂亮"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/035",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 16:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/035/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/035/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/035.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/035"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/036",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 16:36:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/036/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/036/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/036.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/036"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 16楼健身中心，考虑到中国人的习惯，喜悦号压缩了这个部分，增加了餐厅和购 物，这是个物欲膨胀的民族，以客户为本是对的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/037",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 16:41:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/037/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/037/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/037.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/037"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 17楼船尾的水分子中心有露天电影院，也是晚上狂欢的地点"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/038",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 16:42:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/038/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/038/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/038.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/038"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/039",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 16:47:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/039/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/039/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/039.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/039"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 17楼的米国之最餐厅，每天中午晚上提供美国美食，每人8.88美金"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/040",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 19:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/040/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/040/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/040.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/040"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 夜幕下16楼的静心公园"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/041",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 19:03:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/041/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/041/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/041.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/041"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/042",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 19:04:04"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/042/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/042/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/042.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/042"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/043",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 19:05:51"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/043/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/043/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/043.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/043"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/044",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 19:13:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/044/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/044/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/044.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/044"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 17楼水分子天地酒吧"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/045",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 19:22:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/045/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/045/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/045.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/045"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 15楼的玺悦行政酒廊，人不是很多，这里提供早餐，午餐，以及全天的酒水服务 ，所有玺悦套房的客户都可以来这里享用"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/046",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 19:23:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/046/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/046/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/046.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/046"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/047",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 20:19:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/047/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/047/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/047.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/047"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 诺唯真的游轮都设有The Haven奢华客房专区、私享泳池及美食体验，更 有礼宾服务和私人管家服务。趁管家没注意，冲进去一探究竟。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/048",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 20:19:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/048/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/048/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/048.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/048"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这个酒廊是The Haven客人专属的，位于17楼船头，比起15楼的喜悦 行政酒廊，这里的果汁都是鲜榨的。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/049",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 20:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/049/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/049/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/049.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/049"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 16楼的SPA理疗中心，有同团的美女去享受了一下首航5折的SPA服务，反 馈是精油推得少，各种香料敷来敷去的多……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/050",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 22:22:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/050/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/050/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/050.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/050"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 除了现金、信用卡，喜悦号可以使用支付宝结算了，据我所知是所有船中的首创。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/051",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-16 22:28:40"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/051/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/051/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/051.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/051"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/052",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 09:58:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/052/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/052/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/052.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/052"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 槿樱餐厅提供铁板烧和火锅，一幅艺妓画像强化了日餐的属性又与一条现代化的船 融合得很好。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/053",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 10:06:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/053/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/053/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/053.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/053"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 只有清晨的餐厅才略显安静，白天全船28个餐厅都是满员的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/054",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 10:13:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/054/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/054/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/054.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/054"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 海上卡丁车是诺唯真喜悦号的特色，双层的海上赛道，有双人驾驶的也有单人驾驶 的，虽然是体验航次，所有人的体验精神非常足，很多人一上船几乎没有进房间就 做了卡丁车的预约，以至未来的几天都没有空位，我的一个同伴说，下次不能和做 旅游的人一起玩，没有他们时间计划的好"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/055",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 10:21:41"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/055/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/055/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/055.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/055"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/056",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 10:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/056/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/056/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/056.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/056"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 银发族是游轮最主要的客源，游轮也为老人们提供了一个安心舒适旅游出行的方式 ，80多岁的老人都有继续去旅游的权利和能力，每次看到这样的场景都会感到非 常的温暖"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/057",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 10:44:23"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/057/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/057/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/057.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/057"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/058",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 11:40:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/058/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/058/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/058.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/058"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/059",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 11:42:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/059/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/059/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/059.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/059"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这不愧是一条为中国人打造的邮轮，专门设置了中国人喜欢的茶馆，中国的茶馆和 外国人的酒吧都有类似的功能，就是一起交流，其他的游轮酒吧各式各样，是一种 舶来的生活方式，而这条船真的是满足中国人习惯而做了努力"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/060",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 11:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/060/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/060/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/060.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/060"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 邮轮上毛巾叠的小动物是每天晚上推开房门都能发现的惊喜，这一次我的服务员给 我准备的小动物有兔子有狗，在七楼的图片中心，也有也意外的发现了小象"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/061",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 11:59:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/061/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/061/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/061.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/061"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这个装置艺术我非常喜欢，因为这是在8楼的牛排餐厅里，这些小的木炭的排列， 从内容到形式说明了这家餐厅的主菜和坚持"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/062",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 11:59:53"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/062/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/062/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/062.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/062"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/063",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 12:00:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/063/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/063/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/063.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/063"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/064",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 12:00:40"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/064/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/064/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/064.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/064"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/065",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 12:01:30"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/065/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/065/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/065.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/065"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/066",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 12:03:03"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/066/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/066/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/066.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/066"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/067",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 12:06:20"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/067/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/067/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/067.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/067"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/068",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 12:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/068/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/068/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/068.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/068"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/069",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 13:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/069/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/069/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/069.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/069"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/070",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 14:57:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/070/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/070/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/070.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/070"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 艺术总是在情理之中意料之外，推特送信在墙上……想起了一句话，玻璃瓶里的苍 蝇眼前一片光明可以没有前途……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/071",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 15:37:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/071/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/071/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/071.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/071"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/072",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 15:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/072/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/072/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/072.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/072"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/073",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 15:51:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/073/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/073/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/073.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/073"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/074",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 15:59:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/074/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/074/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/074.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/074"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/075",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 16:02:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/075/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/075/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/075.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/075"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/076",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 17:34:21"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/076/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/076/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/076.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/076"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/077",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 17:38:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/077/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/077/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/077.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/077"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这位美容中心的医生一定要为我亲自演示这个应该是一种美容的器械，不知道天生 黝黑的皮肤，用了这个设备是否能够美白，我看，难度很大"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/078",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 17:40:07"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/078/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/078/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/078.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/078"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/079",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 17:44:29"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/079/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/079/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/079.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/079"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/080",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 17:47:21"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/080/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/080/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/080.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/080"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/081",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 17:48:09"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/081/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/081/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/081.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/081"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/082",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 17:52:29"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/082/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/082/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/082.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/082"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/083",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 17:58:42"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/083/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/083/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/083.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/083"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/084",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 18:04:34"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/084/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/084/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/084.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/084"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/085",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 18:38:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/085/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/085/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/085.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/085"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 凤凰俱乐部是有歌舞伴宴的用餐场所，我仍然还是没有预约到座位，只能过一过眼 瘾"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/086",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 18:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/086/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/086/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/086.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/086"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 海上铁板烧的厨师也需要帅也需要可以耍宝"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/087",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 18:47:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/087/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/087/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/087.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/087"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/088",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 19:51:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/088/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/088/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/088.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/088"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 镭射中心在全船的最高点20楼，是一个激光的真人CS对抗赛的游戏，本打算在 这边进行团队建设，但是由于场地限制只能八人一组进行对抗，不太适合人数多的 团队活动，这里的造型布景非常酷"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/089",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 19:52:05"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/089/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/089/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/089.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/089"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/090",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 20:14:30"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/090/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/090/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/090.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/090"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/091",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 20:18:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/091/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/091/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/091.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/091"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/092",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 20:22:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/092/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/092/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/092.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/092"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这个演出只看了最后的部分，还好没有错过大长腿，据说20岁的男人喜欢看脸， 30岁的男人喜欢看胸，40岁的男人喜欢看腿，关注大长腿，是不是暴露了年龄 ？"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/093",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 20:34:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/093/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/093/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/093.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/093"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 来张看脸和看胸的，我也是年轻人"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/094",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 20:52:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/094/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/094/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/094.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/094"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 说是80年代的摇摆派对，我看80年代的大叔大婶们都在围观，一帮年轻的蹦蹦 跳跳的非常活跃"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/095",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 20:53:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/095/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/095/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/095.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/095"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/096",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-17 21:42:00"
+    ]
+   },
+   "width": 540,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/096/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/096/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/096.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 540,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/096"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/097",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:10:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/097/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/097/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/097.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/097"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 在博多运河城五楼的一个忍者俱乐部"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/098",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:15:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/098/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/098/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/098.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/098"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 整个5楼是拉面的组合，有7、8家是拉面店，有福冈博多本地的，也有北海道札 幌拉面，也有中华料理的酱油拉面，每一家店门口都排满了人"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/099",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:21:28"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/099/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/099/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/099.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/099"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/100",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/100/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/100/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/100.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/100"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 博多运河城的无印良品，也像宜家家居一样，是生活方式的一个集合，今天正好赶 上父亲节，无印良品出售绿植的地方打出了一个非常应景的广告，日语写着感谢父 亲"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/101",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:50:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/101/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/101/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/101.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/101"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这是一个手工皂的专卖店，颜色非常漂亮，而且一进店就能感受到混合的一种香味"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/102",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:54:20"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/102/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/102/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/102.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/102"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/103",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:55:28"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/103/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/103/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/103.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/103"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/104",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:57:11"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/104/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/104/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/104.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/104"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/105",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 11:59:34"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/105/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/105/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/105.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/105"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/106",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 12:04:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/106/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/106/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/106.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/106"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 看视频介绍这是一种新型的靠垫，对成人的腰部背部都有很好的支撑和保护作用"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/107",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 12:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/107/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/107/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/107.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/107"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这是一个可以定制自己的名字，数字的项链，事物的专门店"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/108",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 12:57:35"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/108/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/108/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/108.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/108"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/109",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 12:58:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/109/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/109/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/109.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/109"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 擳田神社，擳田大神是波多的总守护神，大神祭是每年7月份福冈地区最热闹的一 个庆典，据说比新年还要重要"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/110",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 14:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/110/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/110/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/110.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/110"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/111",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:24:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/111/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/111/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/111.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/111"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 玺悦套房"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/112",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:31:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/112/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/112/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/112.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/112"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 内舱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/113",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:31:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/113/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/113/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/113.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/113"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 内舱的床"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/114",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/114/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/114/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/114.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/114"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 海景房"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/115",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:40:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/115/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/115/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/115.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/115"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 内舱四人间"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/116",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/116/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/116/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/116.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/116"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 迷你套房"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/117",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/117/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/117/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/117.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/117"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 迷你套房的客厅"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/118",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:53:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/118/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/118/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/118.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/118"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 迷你套房六人间是一个两室一厅的房间，没有阳台，有一个大的液晶屏是一个虚拟 阳台房"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/119",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 16:54:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/119/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/119/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/119.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/119"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/120",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 17:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/120/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/120/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/120.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/120"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 阳台房"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/121",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 17:17:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/121/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/121/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/121.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/121"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/122",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 17:19:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/122/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/122/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/122.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/122"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 玺悦套房"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/123",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 17:37:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/123/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/123/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/123.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/123"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 来自台湾的大变活人魔术师"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/124",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 18:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/124/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/124/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/124.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/124"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 把两个美女都给锯了然后换了腿，所以两人的裤子的颜色是不一样的，这就是魔术 的结果"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/125",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 18:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/125/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/125/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/125.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/125"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这个魔术很高级，把清水变成了五颜六色的水，最后又把五颜六色的粉末从水里捞 了出来，把水又变成了清水"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/126",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 18:40:46"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/126/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/126/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/126.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/126"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/127",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-18 19:56:06"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/127/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/127/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/127.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/127"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/128",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 08:52:42"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/128/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/128/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/128.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/128"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/129",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 11:04:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/129/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/129/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/129.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/129"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 参加船方组织的跑男活动，我们与另外两家旅行社组成了联合五队，最后顺利完成 任务但是没有名次，无论怎样我们都需要为自己喝彩，我们是喜悦第一"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/130",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 12:41:28"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/130/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/130/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/130.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/130"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/131",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 13:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/131/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/131/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/131.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/131"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/132",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 13:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/132/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/132/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/132.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/132"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/133",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 14:14:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/133/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/133/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/133.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/133"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 育筹天下决胜未来的团队建设，马上开始"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/134",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 15:17:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/134/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/134/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/134.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/134"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 5组团员在队长的带领下，在全船16个地点拍摄合影，很多地方并不好找，比如 7楼的小象，是会被很多人忽略的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/135",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 15:21:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/135/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/135/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/135.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/135"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 木炭的装置艺术就更难找了，因为很多人来了这里直奔主题去吃牛排，完全没有关 注艺术品的存在"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/136",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 16:03:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/136/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/136/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/136.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/136"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 团队建设，完美收官"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/137",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 16:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/137/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/137/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/137.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/137"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 跳跃吧，兄弟们，这种跳跃，并不是年轻人的专利，早在1931年的杂志上当时 的年轻人就开始跳跃啦，这是一个很好的传统"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/138",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 16:31:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/138/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/138/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/138.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/138"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 The Haven套房的专属餐厅"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/139",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 16:32:38"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/139/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/139/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/139.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/139"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/140",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 16:39:57"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/140/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/140/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/140.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/140"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/141",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 16:45:08"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/141/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/141/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/141.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/141"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/142",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 16:51:54"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/142/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/142/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/142.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/142"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/143",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 17:14:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/143/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/143/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/143.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/143"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 海霸王餐厅是海鲜自助，餐厅也是需要预约和收费的，餐厅由于有螃蟹龙虾生蚝等 等非常受欢迎的食材所以完全供不应求，导致有些客户有了抱怨，船方为了让大家 都能享受到海霸王餐厅的料理，专门把一天的自助午餐改成了海鲜盛宴造成了万人 空巷"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/144",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 17:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/144/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/144/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/144.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/144"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 这家餐厅的服务员有一点傲慢，几次拍摄都受到各种各样理由的阻碍，难怪第1天 晚上就形成了大面积的客户投诉"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/145",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 17:37:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/145/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/145/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/145.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/145"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 每天晚上都会给我的房间送一些小点心，今天的是若为真特制的巧克力"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/146",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 18:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/146/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/146/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/146.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/146"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 体验航次之前很多都是虚拟图，在玺悦行政酒廊也遇到了一个国际的摄制组是为喜 悦号拍摄宣传片的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/147",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 18:15:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/147/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/147/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/147.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/147"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 最好的时间最好的光线国际的帅哥美女定格在最美的时刻"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/148",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 18:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/148/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/148/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/148.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/148"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 8楼的美食共和国连续吃了两次，点菜是可以用pad自助完成，诺唯真邮轮中国 的总裁和何大卫先生的宴请也安排在了这里"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/149",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 18:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/149/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/149/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/149.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/149"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 泰国油炸小虾很好吃"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/150",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 19:37:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/150/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/150/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/150.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/150"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/151",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 21:19:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/151/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/151/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/151.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/151"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 元素是喜悦剧院主力推荐的大型表演，其中有舞蹈、魔术还有一些杂技"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/152",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 21:23:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/152/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/152/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/152.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/152"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 大变活人的台湾魔术师又来了"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/153",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 21:29:06"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/153/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/153/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/153.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/153"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/154",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 21:48:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/154/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/154/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/154.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/154"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 舞蹈演员都飞在天上了"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/155",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 21:50:15"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/155/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/155/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/155.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/155"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/156",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 21:53:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/156/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/156/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/156.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/156"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 最后一个节目非常有气氛，漫天飞雪加满天飞舞"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/157",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 21:55:50"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/157/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/157/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/157.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/157"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/158",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 21:58:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/158/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/158/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/158.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/158"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱 诺唯真中国总裁何大卫先生亲自来抽奖，可惜没有抽到我"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/159",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-19 22:06:12"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/159/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/159/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/159.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/159"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/160",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 12:00:47"
+    ]
+   },
+   "width": 960,
+   "height": 1444,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/160/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/160/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/160.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1444
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/160"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/161",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 13:03:53"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/161/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/161/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/161.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/161"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/162",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 13:14:55"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/162/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/162/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/162.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/162"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/163",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 13:23:14"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/163/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/163/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/163.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/163"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/164",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 14:47:35"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/164/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/164/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/164.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/164"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/165",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 14:48:49"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/165/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/165/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/165.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/165"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/166",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 15:09:39"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/166/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/166/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/166.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/166"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/167",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 15:24:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/167/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/167/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/167.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/167"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/168",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 15:53:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/168/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/168/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/168.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/168"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/169",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 17:20:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/169/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/169/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/169.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/169"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/170",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 18:13:28"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/170/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/170/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/170.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/170"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/171",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 18:16:56"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/171/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/171/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/171.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/171"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/172",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 18:30:00"
+    ]
+   },
+   "width": 640,
+   "height": 368,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/172/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/172/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/172.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 640,
+        "height": 368
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/172"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/173",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 18:42:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/173/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/173/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/173.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/173"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/174",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 18:46:20"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/174/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/174/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/174.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/174"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/175",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-06-27 22:00:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/175/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/175/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/175.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/175"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/canvas/176",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-07-25 13:21:00"
+    ]
+   },
+   "width": 960,
+   "height": 400,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387467848/canvas/176/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387467848/canvas/176/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387467848/img/176.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 400
+       },
+       "target": "https://chenxu.life/iiif/2387467848/canvas/176"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "首航揭开诺唯真喜悦号的面纱"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

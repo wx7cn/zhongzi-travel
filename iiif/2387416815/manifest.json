@@ -1,0 +1,3576 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387416815/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "美丽的塞班美丽的海"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "塞班岛 · 2017-08-17 起 · 76张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "塞班岛"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2017-08-17 13:00:00 ~ 2017-08-21 09:10:00"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387416815.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "美丽的塞班美丽的海"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-17 13:00:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/001"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "又一次准备启程去塞班，两年前这个时间，去看了塞班的海，两年后会有什么变化 呢？"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-17 18:15:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 过境仁川国际机场，又来机场里的民俗文化体验中心看一眼，每次都有新发现"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 11:20:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 对PIC酒店并不陌生，1999年去关岛的时候就是入住的PIC，当时酒店的 团建活动和各种水上体验项目，让我觉得非常新奇，这么多年也来过塞班PIC很 多次，但真正入住，这才是第一次！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 11:24:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 早上远处有大的云团，看样子那边在下大暴雨"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 11:24:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 PIC有射箭、迷你高尔夫、篮球、网球、攀岩等项目，入住酒店一价全包。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 11:25:00"
+    ]
+   },
+   "width": 960,
+   "height": 940,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 940
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 友好的互动是入住PIC最直接的感受"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 11:26:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 这是酒店标志性的水上活动，酒店会把不同的住客组织在一起进行团队活动，这是 现在所谓的团建。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 14:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 943,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 943
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 在加拉班地区建起的博华太平洋酒店，这不仅仅是一个建筑，据说，因为它的建设 ，拉抬了这个地区两倍的房价，同时也是整个塞班新的焦点新的希望。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 14:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 很有点拉斯维加斯或者澳门的风范，高大上！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 14:28:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 彻底改变了我对塞班的印象，原本的一个小村立刻变得富丽堂皇起来。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 14:29:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 最早见过会变化的天花板是在拉斯维加斯威尼斯人酒店，现在在中国已经不太稀奇 了，但是出现在塞班还是很超前的。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 14:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 贵气逼人"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 14:31:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 酒店是不允许在这个位置拍照，我是冒着生命的危险用GoPro拍的，不过真的 很漂亮真的应该给人一睹为快。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 14:49:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 博华太平洋酒店据说已经投入了2.5亿美金，但这一切仅仅都是刚刚开始，未来 好像还要投入70亿美金，新建20个类似的酒店，塞班的旅游完全会土鸡变凤凰 了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 14:52:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 颜色很漂亮，虽然大金但是不俗。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 15:04:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 邢总分享的博华太平洋酒店外观"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 15:16:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 博华太平洋酒店的内部设施"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/018",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 15:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/018/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/018/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/018"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 2017DFS集团中国旅游市场同业研讨会塞班站进行中……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/019",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 15:36:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/019/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/019/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/019"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 DFS组织工作非常细致，为每一个参会的考察者都做了企业介绍，DFS的考察 越来越专业了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/020",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 15:37:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/020/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/020/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/020"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 任逍遥作为一家经营了16年塞班的旅行服务商也在研讨会中认识了很多新朋友， 找到了一些新思路。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/021",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 21:12:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/021/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/021/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/021"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 博华太平洋酒店为VIP准备的豪华游艇。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/022",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-18 21:16:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/022/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/022/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/022.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/022"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 非常香艳，塞班的海天盛筵……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/023",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 09:34:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/023/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/023/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/023"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 考察塞班南部的酒店，这是一个正在新建中的酒店，目前有20多间房，是塞班一 家做餐饮集团建的酒店，也是塞班赫兹租车的一个连锁店，未来等房间建成后会成 为Bestwesten的加盟连锁酒店。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/024",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 09:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/024/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/024/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/024.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/024"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 海景餐厅"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/025",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 09:37:56"
+    ]
+   },
+   "width": 960,
+   "height": 987,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/025/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/025/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/025.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 987
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/025"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/026",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 09:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/026/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/026/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/026.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/026"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 酒店楼下有同一个集团的面包房，还有知名的咖啡厅，非常适合年轻的自由行客户 或者商务客户。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/027",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 11:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/027/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/027/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/027.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/027"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 格兰维罗位置是最好的，也是塞班非常老牌的酒店，就在DFS正对面，现在是日 本人经营管理的，有三星楼、四星水晶楼和五星楼。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/028",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 11:15:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/028/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/028/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/028.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/028"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 四星楼的餐厅"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/029",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 11:24:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/029/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/029/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/029.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/029"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 塞班标准性的鸡蛋花"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/030",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 12:04:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/030/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/030/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/030.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/030"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 博华太平洋酒店前面的STI酒店，是韩国人经营的酒店，3-4星，门口的装置 艺术一看就是韩范儿。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/031",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 12:06:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/031/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/031/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/031.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/031"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 今天的塞班新酒店考察结束，有餐饮背景的、建筑地产背景的，有日本资本韩国资 本控制的，有未来美国链锁品牌规划的，说明塞班市场火爆背后，床位的缺口正在 缩小，格局正在慢慢变化……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/032",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 12:49:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/032/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/032/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/032.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/032"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 塞班的水非常诱人，尤其是在阳光下清澈的就像一个天然泳池。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/033",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 12:57:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/033/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/033/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/033.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/033"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 劳劳贝高尔夫球场是塞班非常著名的球场，不仅是有漂亮的海景，而且还有跨海的 挑战。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/034",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 13:12:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/034/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/034/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/034.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/034"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 军舰岛就是塞班的一个脸面。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/035",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 14:52:00"
+    ]
+   },
+   "width": 960,
+   "height": 961,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/035/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/035/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/035.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 961
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/035"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 第一次体验ATV，爬山涉水动力强劲，3000cc，惊险刺激，非常值得去， 是另一种丛林探险的体验！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/036",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 15:57:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/036/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/036/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/036.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/036"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 下午去了塞班一个名为碧榕庄的民宿，东南亚装饰风格，位于半山上可以看到军舰 岛的七色海以及美军补给舰，视野景致环境都很好，院里还有泳池和凉亭，有四个 房间，非常适合小规模团建或者私董会……今天还吃到了院里自产的香蕉，现吃现 摘，更重要的是老板娘来自北京旅游圈，健谈！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/037",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 15:57:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/037/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/037/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/037.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/037"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 睡莲透着主人的佛性禅心ὤὤ"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/038",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 16:00:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/038/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/038/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/038.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/038"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 这里的视野非常好，是可以看见军舰岛和美军补给舰的无敌海景，是塞班8座有这 种视野的建筑中唯一的民宿。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/039",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 16:05:19"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/039/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/039/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/039.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/039"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/040",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 16:07:07"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/040/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/040/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/040.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/040"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/041",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 16:22:47"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/041/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/041/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/041.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/041"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/042",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 16:25:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/042/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/042/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/042.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/042"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 这里的泳池也是很多摄影师和模特儿来拍大片儿的地方，据说前一天就有就有比基 尼美女在这里出现。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/043",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 16:25:50"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/043/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/043/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/043.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/043"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/044",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 18:32:00"
+    ]
+   },
+   "width": 960,
+   "height": 961,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/044/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/044/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/044.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 961
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/044"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 DFS绝对是全塞班的地标。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/045",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 19:16:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/045/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/045/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/045.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/045"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 心中的太平洋日落"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/046",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-19 19:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/046/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/046/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/046.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/046"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 延时摄影的魅力"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/047",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 12:33:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/047/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/047/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/047.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/047"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 午餐在海景饭店，对面的海非常漂亮。据说塞班中国游客的暴增带来了岗位的流动 ，塞班很多厨师也跳槽做了导游，因为导游的收入高于厨师，实话实说现在塞班各 个中餐厅的菜大不如前！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/048",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 13:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 961,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/048/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/048/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/048.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 961
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/048"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 清泉度假村只有91间房是全塞班最好的酒店，每个房间都是独栋的建筑，有非常 漂亮的游泳池，海天一色。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/049",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 13:43:44"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/049/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/049/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/049.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/049"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/050",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 13:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/050/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/050/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/050.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/050"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 韩国娃娃玩得很开心"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/051",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 13:44:57"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/051/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/051/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/051.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/051"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/052",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 13:57:41"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/052/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/052/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/052.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/052"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/053",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 13:59:01"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/053/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/053/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/053.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/053"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/054",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 14:12:00"
+    ]
+   },
+   "width": 960,
+   "height": 961,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/054/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/054/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/054.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 961
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/054"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 肯辛顿酒店前身是塞班日航酒店、棕榈泉酒店，住过很多次，房间数量很多，在空 闲了五年之后，现在被韩国人收购改为一价全包式的酒店。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/055",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 14:16:00"
+    ]
+   },
+   "width": 960,
+   "height": 961,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/055/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/055/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/055.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 961
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/055"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 酒店的主装饰是海螺和贝壳。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/056",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 14:27:26"
+    ]
+   },
+   "width": 960,
+   "height": 961,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/056/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/056/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/056.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 961
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/056"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/057",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 14:54:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/057/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/057/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/057.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/057"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 一层也有一家ilove塞班土特产店"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/058",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 15:16:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/058/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/058/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/058.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/058"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 马里亚纳度假村的教堂非常著名适合举行海边的婚礼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/059",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 15:37:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/059/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/059/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/059.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/059"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/060",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 15:38:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/060/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/060/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/060.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/060"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/061",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 15:39:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/061/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/061/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/061.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/061"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 今天的塞班老酒店考察结束，顺次是清泉酒店、肯辛顿酒店、马里亚纳度假村…… 清泉的海天一色、肯辛顿是新酒店一价全包、马里亚纳的教堂婚礼绝对都是特色！ 只是都不愁卖，塞班今天是个好天气……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/062",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 16:07:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/062/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/062/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/062.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/062"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 还是那么Rockᾑᾑ"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/063",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 16:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/063/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/063/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/063.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/063"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 这里是以前塞班最现代的地方，当然现在已成为了一个怀旧的标志。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/064",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 16:17:00"
+    ]
+   },
+   "width": 960,
+   "height": 961,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/064/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/064/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/064.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 961
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/064"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 DFS的style"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/065",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 17:00:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/065/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/065/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/065.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/065"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 肯辛顿酒店的视频，还有一个40秒的更全面，只是无法上传"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/066",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 17:28:00"
+    ]
+   },
+   "width": 960,
+   "height": 961,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/066/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/066/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/066.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 961
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/066"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 太平洋日落晚餐秀，登上了全塞班最大最好的一艘船，还有土风自助晚餐。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/067",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 17:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/067/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/067/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/067.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/067"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 传统的继承者、传播者，只是不那么胖不算美男子。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/068",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 17:48:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/068/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/068/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/068.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/068"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 太平洋日落"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/069",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 17:51:10"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/069/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/069/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/069.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/069"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/070",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 17:53:13"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/070/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/070/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/070.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/070"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/071",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 18:38:09"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/071/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/071/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/071.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/071"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/072",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 19:16:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/072/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/072/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/072.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/072"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 太平洋的日落非常美，云卷云舒瞬息万变！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/073",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-20 19:34:00"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/073/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/073/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/073.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/073"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 土风舞自然秀"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/074",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-21 05:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/074/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/074/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/074.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/074"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 原来查莫罗民族的杆栏式建筑，这是一个模型。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/075",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-21 05:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/075/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/075/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/075.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/075"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 塞班机场的候机厅也有了文化的气息"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/canvas/076",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2017-08-21 06:04:00"
+    ]
+   },
+   "width": 960,
+   "height": 960,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387416815/canvas/076/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387416815/canvas/076/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387416815/img/076.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 960
+       },
+       "target": "https://chenxu.life/iiif/2387416815/canvas/076"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "美丽的塞班美丽的海 第一次在太阳升起后，从塞班起飞……"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

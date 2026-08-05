@@ -1,0 +1,572 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2388006428/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "云台山洛阳周末"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "河南·云台山洛阳 · 2011-08-20 起 · 11张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "河南·云台山洛阳"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2011-08-20 14:01:33 ~ 2011-08-21 14:33:13"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2388006428.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "云台山洛阳周末"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-20 14:01:33"
+    ]
+   },
+   "width": 960,
+   "height": 1445,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1445
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/001"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-20 19:49:12"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-20 19:50:14"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-21 13:39:25"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-21 13:42:04"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-21 13:46:17"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-21 13:49:58"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-21 14:06:46"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-21 14:07:04"
+    ]
+   },
+   "width": 960,
+   "height": 1445,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1445
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-21 14:20:27"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2011-08-21 14:33:13"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2388006428/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2388006428/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2388006428/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2388006428/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "云台山洛阳周末"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

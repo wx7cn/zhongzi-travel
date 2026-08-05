@@ -1,0 +1,494 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387354351/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "北海涠洲岛一日还"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "广西·北海 · 2018-12-01 起 · 9张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "广西·北海"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2018-12-01 19:24:00 ~ 2018-12-04 20:00:00"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387354351.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "北海涠洲岛一日还"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-03 09:10:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/001"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 北海金海湾红树林有两个品种，白骨壤和秋茄，种子落在滩涂地上三小时生根发芽 ，落在海水里就是种子爱旅行了…"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-03 18:18:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 幕崖日落前的海滩"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-04 07:21:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 凡所有相 皆是虚妄 若见诸相非相 即见如来"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-04 07:58:00"
+    ]
+   },
+   "width": 960,
+   "height": 542,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 542
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 刚刚过去的50分钟，吹吹风听听海，看云卷云舒，想点事……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-04 09:02:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 建于1863年的哥特式教堂是法国传教士为了援助救济广东恩平开平客土两族冲 突与迁徙到涠洲岛的客家人一起兴建的。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-04 11:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 鳄鱼山火山口"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-04 12:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 全涠洲岛最漂亮的点"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-04 12:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 滴水村水上项目多"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-04 13:29:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387354351/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387354351/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387354351/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387354351/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "北海涠洲岛一日还 离开涠洲岛之前再拍一下我的交通工具"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

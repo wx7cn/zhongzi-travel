@@ -1,0 +1,5922 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387905709/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "行摄匆匆尼泊尔：走进净土感悟心动……"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "尼泊尔 · 2013-10-24 起 · 127张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "尼泊尔"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2013-10-24 07:05:43 ~ 2014-10-18 22:43:00"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387905709.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "行摄匆匆尼泊尔：走进净土感悟心动……"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 07:05:43"
+    ]
+   },
+   "width": 960,
+   "height": 637,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 637
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/001"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "这张不是我拍的，早上天还没亮就在机场集合了，难得有个自我的旅行，第一次走 进尼泊尔，和几个熟人一起……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 猴庙建在加德满都以西的山顶上，登顶后可俯览整个加都谷地，你会发现其密密麻 麻的建筑甚至超过了上海。这里的猴子虽然不怕生人，但也不会象峨嵋山的猴子会 主动打劫你。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:31:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 近距离拍到尼泊尔人，他们很友善，也很配合，看来是见过大世面……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:32:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 这里是佛教徒的一个重要朝圣地，并以加德满都河谷最古老的遗迹而引人注目。相 传释迦牟尼曾亲临此地。每年佛祖诞生日时这里都要举行盛大的法会，届时人头攒 动，热闹非凡。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:34:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 是有2500年历史的寺庙，感觉这里是猴子的世界，参拜的人是外来的多余的， 打扰猴子灵修的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 由于是第一个景点，还沉浸在尼泊尔美学中，而猴子早就习以为常，猴头攒动热闹 得很……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:36:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 是一种沉淀，不知是否也经历了2500年，什么样的光会亮那么久"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:39:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 尼泊尔最古老的藏传佛教圣地，距今已有2500多年，看到转经桶感觉到亲切感 ，这也许是宗教的魅力，一种认同"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:41:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 而在北面的Hariti神庙内有一尊漂亮的天花女神Hariti的神像，这位 印度女神还掌握着生育大权。猴庙充分体现了印度教与佛教在尼泊尔的完美融合"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 应该是印度教的守护神"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:47:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 敬神用的烛台，看来是畅销的，不然怎么这么多人从事"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:49:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 孤独的，天黑了，只有猴子陪她"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:52:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… Hariti神庙外墙的神像，丰满性感"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-24 17:55:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 猴子也冥想"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 09:53:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 骑大象丛林探险的第一个兴奋点就是看独角犀牛，犀牛看似很老实，不禁让人联想 到泰国东芭乐园中被灌了药的老虎…"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 10:23:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 奇达旺国家森林公园是尼泊尔最著名的国家公园，占地932平方公里，由于保护 的原因，游客并不能真正进入森林的腹地，只是在森林边缘游览"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 10:58:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 我感觉所有村民都在这里，砍木头，分木头，搬木头……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/018",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 11:00:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/018/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/018/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/018"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 应该是在汇报木头工作，但是墙壁上的图案可以看出，尼泊尔人对颜色使用的独到 之处"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/019",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 11:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/019/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/019/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/019"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 大象场门口的小摊贩，气质不错，为什么中国旅游景点附近的小贩姐姐们都那么土 豆"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/020",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 11:16:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/020/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/020/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/020"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 可以和大象一起洗澡戏水，流程是上-歪-水-湿-下……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/021",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 11:21:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/021/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/021/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/021"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 没有拍到喷水的好角度，真是遗憾，赶象人能跟大象沟通，说走就走说喷就喷"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/022",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 15:00:47"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/022/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/022/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/022.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/022"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 坐独木舟，真是把一棵树挖空的，肚子太大实在不是享受，说是能看到鳄鱼，我心 想最好别碰到，万一鳄鱼疯了咋办"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/023",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 15:05:02"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/023/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/023/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/023"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 终于到了，两位船工要回了，才发现他们也是河上的一道风景"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/024",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 15:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/024/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/024/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/024.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/024"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 蚂蚁虽小，但却能建造出这世界上最伟大的蚁巢建筑；打败比自己大无数倍的猎物 ！靠的都是团队的力量，所以我们人类要向蚂蚁们好好学习，成为守护这世界的超 级英雄！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/025",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 15:40:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/025/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/025/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/025.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/025"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 同行的孙姐，猜想是个艺术家，在徒步间歇感受一下自我释放"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/026",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:06:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/026/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/026/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/026.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/026"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 不知他们在弄什么，拍照的时候，他们有点羞涩，一直躲躲"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/027",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/027/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/027/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/027.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/027"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 你让我跳来我就跳，你让我笑来我就笑，你让我哭来我就哭，只要张开怀抱……给 钱，就极为配合！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/028",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:09:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/028/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/028/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/028.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/028"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 镜头感极强，也是久经考验的战士"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/029",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:31:58"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/029/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/029/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/029.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/029"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/030",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:34:31"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/030/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/030/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/030.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/030"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 相由心生，这个漂亮的小姑娘，我相信她是个好姑娘！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/031",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:36:07"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/031/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/031/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/031.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/031"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 牧归，数不清的壮牛熟练地，平静回来，意味着一天又要结束了"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/032",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:37:56"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/032/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/032/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/032.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/032"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 初步有了些市场意识，但是尼泊尔的水果既难看又小，也许这才是纯天然的？"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/033",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:38:27"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/033/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/033/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/033.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/033"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 现场制作一种印度小吃，据说是有点辣的豆子……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/034",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:39:04"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/034/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/034/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/034.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/034"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 美女爱吃的，看样子很普及"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/035",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:54:53"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/035/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/035/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/035.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/035"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 去的时候还在休息中，估计是晚上才会开业的酒吧，酒精是一种催化剂……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/036",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 16:55:49"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/036/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/036/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/036.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/036"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/037",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:00:50"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/037/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/037/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/037.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/037"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 村口的耕牛也没有专人看管，看来这里民风不错"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/038",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:02:18"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/038/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/038/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/038.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/038"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 虽然是十一月了，树依旧绿，花依旧开，按尼泊尔历法，刚刚是6月"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/039",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:03:51"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/039/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/039/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/039.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/039"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 随便一个家庭，颜色都是一抹亮点"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/040",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:04:04"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/040/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/040/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/040.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/040"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 应该是女孩，她认为最好的姿势，哈哈"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/041",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:11:26"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/041/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/041/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/041.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/041"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 选举季节到了，基层村庄也是要一张票一张票的拜"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/042",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:11:50"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/042/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/042/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/042.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/042"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 向左看向右想，的确都可以……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/043",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:13:04"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/043/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/043/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/043.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/043"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 小卖部是乡村级的，但是颜色是世界级的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/044",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:16:21"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/044/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/044/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/044.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/044"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 各有各的帮，各有各的道，也是牧归的时候了"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/045",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:18:11"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/045/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/045/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/045.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/045"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 童趣被我强迫拍照破坏了，心里不定怎么反感呢，但是脸上很友好很配合，有礼貌 得很……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/046",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:23:26"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/046/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/046/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/046.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/046"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 丛林探险的大象们也该回去歇歇了，一天至少要走3-4趟"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/047",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-26 17:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/047/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/047/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/047.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/047"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 酒店的大堂"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/048",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 11:27:58"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/048/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/048/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/048.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/048"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 在尼泊尔没有高速路服务区这个概念，只有打尖的地方，店家小女儿很漂亮，想必 未来也许是远近闻名的“豆腐西施”"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/049",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 11:28:23"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/049/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/049/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/049.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/049"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/050",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 11:29:17"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/050/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/050/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/050.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/050"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/051",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 11:37:41"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/051/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/051/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/051.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/051"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/052",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 11:38:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/052/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/052/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/052.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/052"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 尼泊尔的观光车基本都是印度塔塔牌的，都有一个相对独立封闭的驾驶室，车是右 驾驶，除了司机以外还会有个啥都管的助理"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/053",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 11:41:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/053/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/053/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/053.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/053"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 我们的TATA车贴了宝马的标"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/054",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 15:20:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/054/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/054/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/054.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/054"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/055",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 16:24:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/055/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/055/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/055.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/055"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 镰刀斧头多亲切，地方选举造势活动，祝共产党成功！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/056",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-27 16:36:31"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/056/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/056/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/056.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/056"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/057",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 11:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/057/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/057/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/057.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/057"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 因为从加德满都到奇达旺，从奇达旺到博卡拉，充分领教了公路交通，痛苦得很… 所以推荐博卡拉飞回加德满都的机票自费项目，毫无悬念地都参加，关键是一直没 看到雪山，飞上天就能一睹鱼尾峰的真容了"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/058",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 11:46:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/058/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/058/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/058.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/058"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 小飞机上的两个空姐之一，端正大方，25分钟的飞行中多看几眼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/059",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 11:51:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/059/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/059/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/059.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/059"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 佛航，换领的几乎是第一排，我没去坐，因为这小空间前后都一样，关键是能看雪 山的位子才是好位子"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/060",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 12:04:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/060/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/060/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/060.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/060"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 敢坐吗？飞机就这么大，不管你敢不敢，反正我敢了"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/061",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 13:48:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/061/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/061/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/061.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/061"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 进入巴德岗，先从陶瓷广场开始，烧陶晒谷子的都在一起，还真够真实的，不象中 国有的景点那么做作"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/062",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 13:49:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/062/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/062/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/062.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/062"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 陶瓷广场的且做且贩卖"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/063",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 13:50:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/063/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/063/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/063.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/063"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 水果这么卖，不是他的黑脸还衬不出水果的水灵"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/064",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 13:52:54"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/064/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/064/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/064.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/064"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/065",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 13:54:09"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/065/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/065/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/065.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/065"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/066",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 13:55:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/066/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/066/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/066.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/066"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 大婶不疼吗？挖鼻孔的时候不疼吗？"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/067",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:02:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/067/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/067/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/067.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/067"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 大花布有很多用途，挂着卖整条街都鲜艳起来"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/068",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:04:54"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/068/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/068/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/068.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/068"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/069",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:06:58"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/069/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/069/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/069.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/069"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/070",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:12:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/070/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/070/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/070.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/070"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 佛教的元素，可以看出以往佛教在尼泊尔统治中的地位"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/071",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:13:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/071/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/071/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/071.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/071"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 本地歌星，正拍MV呢，估计我拍他闯镜头了，又要重来。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/072",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:14:51"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/072/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/072/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/072.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/072"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/073",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:15:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/073/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/073/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/073.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/073"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 精美而复杂，时尚感日久而弥新"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/074",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:16:48"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/074/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/074/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/074.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/074"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/075",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/075/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/075/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/075.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/075"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 尼泊尔的色彩，尼泊尔的风格，尼泊尔的大眼睛"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/076",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:34:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/076/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/076/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/076.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/076"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 不仅是观光地，更是一个鲜活的城镇，我可以在这里休息，巴德岗的小情侣们亦然"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/077",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:39:56"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/077/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/077/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/077.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/077"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/078",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:54:46"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/078/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/078/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/078.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/078"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/079",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 14:55:38"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/079/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/079/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/079.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/079"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/080",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:17:10"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/080/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/080/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/080.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/080"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/081",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:19:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/081/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/081/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/081.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/081"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 亲手体验制陶"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/082",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:21:10"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/082/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/082/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/082.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/082"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/083",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:26:31"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/083/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/083/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/083.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/083"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/084",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:28:55"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/084/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/084/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/084.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/084"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/085",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/085/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/085/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/085.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/085"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 老奶奶和蔼可亲，索要消费之后极力配合"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/086",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:40:23"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/086/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/086/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/086.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/086"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/087",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/087/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/087/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/087.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/087"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 师傅只懂化缘…"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/088",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 15:56:59"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/088/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/088/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/088.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/088"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/089",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 16:00:09"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/089/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/089/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/089.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/089"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/090",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 16:09:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/090/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/090/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/090.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/090"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 移动的麻豆，不知举了个什么，只有颜色和尼泊尔沾边"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/091",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 16:13:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/091/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/091/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/091.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/091"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 适逢中学生下课，不太发达的国家，但感觉学生较比像样，这才是真重视教育吧。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/092",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-29 16:15:21"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/092/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/092/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/092.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/092"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/093",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 05:55:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/093/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/093/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/093.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/093"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 翻出阳台准备看日出看雪山，院子里是酒吧用的桌椅，他们是幸福的，见证过多少 个晴朗的日子，我们又一次与雪山失之交臂"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/094",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 06:07:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/094/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/094/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/094.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/094"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 在纳加阔特晴天时可以看到的雪山山峰，对我来说只能记录它来纪念我来过"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/095",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 10:29:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/095/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/095/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/095.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/095"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/096",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 10:32:04"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/096/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/096/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/096.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/096"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/097",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 10:38:22"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/097/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/097/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/097.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/097"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/098",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 10:39:51"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/098/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/098/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/098.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/098"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/099",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 10:40:04"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/099/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/099/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/099.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/099"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/100",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 10:43:11"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/100/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/100/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/100.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/100"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/101",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 10:51:57"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/101/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/101/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/101.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/101"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/102",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 11:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/102/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/102/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/102.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/102"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 老王宫中的新士兵，过去几百年尼泊尔最有权有势的人都在这里生活工作，百年后 能不留念？拥挤的老王宫"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/103",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 11:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/103/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/103/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/103.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/103"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 尼泊尔历史上的历代君主像，其中一位很像我们的导游苏先生。苏先生留学北京， 信佛教，他的信仰感觉是生活方式的一部分，自然平和，当然也存在优秀导游不该 有的瑕疵-过于执着"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/104",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 11:15:38"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/104/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/104/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/104.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/104"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/105",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 11:42:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/105/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/105/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/105.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/105"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 几根大木头，不知是房梁还是其他，反正我们当长椅，木头侧面的图案让人肃然起 敬"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/106",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 14:04:37"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/106/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/106/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/106.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/106"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/107",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 14:05:27"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/107/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/107/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/107.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/107"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/108",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 14:07:46"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/108/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/108/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/108.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/108"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/109",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 14:11:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/109/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/109/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/109.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/109"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 艺术无处不在，在传统具象的包围下，偏平化设计特别抢眼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/110",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 16:56:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/110/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/110/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/110.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/110"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/111",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 16:59:52"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/111/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/111/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/111.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/111"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/112",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:02:50"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/112/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/112/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/112.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/112"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/113",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:04:39"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/113/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/113/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/113.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/113"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/114",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:05:06"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/114/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/114/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/114.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/114"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/115",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:15:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/115/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/115/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/115.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/115"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动…… 前菜，餐具是黄铜的"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/116",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:17:16"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/116/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/116/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/116.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/116"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/117",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:38:42"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/117/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/117/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/117.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/117"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/118",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:38:53"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/118/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/118/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/118.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/118"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/119",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:42:06"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/119/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/119/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/119.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/119"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/120",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 17:51:18"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/120/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/120/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/120.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/120"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/121",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-30 18:23:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/121/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/121/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/121.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/121"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/122",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-31 09:46:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/122/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/122/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/122.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/122"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/123",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-31 09:52:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/123/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/123/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/123.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/123"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/124",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-31 10:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/124/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/124/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/124.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/124"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/125",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-31 10:05:59"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/125/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/125/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/125.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/125"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/126",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-31 10:07:52"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/126/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/126/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/126.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/126"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/canvas/127",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2013-10-31 10:09:15"
+    ]
+   },
+   "width": 960,
+   "height": 639,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387905709/canvas/127/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387905709/canvas/127/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387905709/img/127.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 639
+       },
+       "target": "https://chenxu.life/iiif/2387905709/canvas/127"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "行摄匆匆尼泊尔：走进净土感悟心动……"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

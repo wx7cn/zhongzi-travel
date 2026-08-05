@@ -1,0 +1,1000 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387355636/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "塞班航拍+星空"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "塞班岛 · 2018-12-14 起 · 20张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "塞班岛"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2018-12-14 12:00:00 ~ 2018-12-25 12:10:00"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387355636.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "塞班航拍+星空"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-14 16:57:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/001"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 塞班最北角"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-14 17:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 这次拍点塞班high的，无人机延时2秒间隔5秒用时4分11秒……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 07:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 地水火风共成身，随彼因缘招异果，“四大”各有各的行动逻辑，各有各的因果轨 迹，在很大程度上都不依主观意志为转移。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 09:37:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 120米高度快艇变成了一个像素"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 09:40:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 飞越军舰岛"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 09:58:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 对的时间合适的角度就能看到果冻海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 10:08:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 珊瑚礁盘造就了七色海"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 11:23:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 一个叫军舰岛的游泳池"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 11:53:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 军舰岛延时航拍间隔4秒用时16分41秒"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 15:25:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 隐秘海滩换个角度看鳄鱼头和无风三尺浪"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 21:46:00"
+    ]
+   },
+   "width": 960,
+   "height": 542,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 542
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 塞班星空，除了设备运气还要有胆量勇气"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 23:39:00"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 用GoPro拍的塞班星空，下次拿单反拍应该颜色还原好些"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 23:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-15 23:48:09"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-16 00:05:12"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-16 15:02:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 穿越云雾飞向拉德海滩，奔跑吧兄弟塞班拍摄地"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-16 16:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 禁断岛"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/018",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-16 16:21:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/018/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/018/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/018"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 海边的绿色格外养眼"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/019",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-16 18:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/019/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/019/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/019"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 遇到强气流有些颠簸，请系好安全带……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/canvas/020",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2018-12-16 18:13:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387355636/canvas/020/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387355636/canvas/020/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387355636/img/020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387355636/canvas/020"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "塞班航拍+星空 傍晚中心区域"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

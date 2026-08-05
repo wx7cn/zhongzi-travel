@@ -1,0 +1,2458 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387365190/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "走近意大利西班牙艺术家的世界"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "观展 · 2019-11-20 起 · 52张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "观展"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2019-11-20 19:18:00 ~ 2019-12-14 21:16:00"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387365190.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "走近意大利西班牙艺术家的世界"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-20 19:18:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/001"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-21 01:33:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-21 02:03:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-21 16:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-21 23:07:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-22 16:54:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-22 21:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-22 21:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-23 17:50:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-23 21:42:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-23 23:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-24 21:45:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-24 22:14:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-25 14:59:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-26 04:48:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-26 05:04:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-26 14:57:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/018",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-26 15:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/018/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/018/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/018"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/019",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-26 19:39:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/019/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/019/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/019"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/020",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-26 21:29:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/020/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/020/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/020"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/021",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-26 22:28:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/021/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/021/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/021"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/022",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-26 16:09:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/022/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/022/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/022.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/022"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/023",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-28 13:52:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/023/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/023/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/023"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/024",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-28 22:13:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/024/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/024/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/024.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/024"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/025",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-28 22:19:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/025/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/025/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/025.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/025"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/026",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-29 12:33:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/026/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/026/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/026.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/026"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/027",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-29 14:54:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/027/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/027/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/027.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/027"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/028",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-29 19:11:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/028/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/028/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/028.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/028"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/029",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-29 22:35:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/029/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/029/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/029.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/029"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/030",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-11-30 19:28:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/030/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/030/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/030.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/030"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/031",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-01 02:07:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/031/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/031/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/031.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/031"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/032",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-01 03:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/032/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/032/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/032.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/032"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/033",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-01 20:11:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/033/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/033/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/033.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/033"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/034",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-01 23:44:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/034/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/034/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/034.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/034"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/035",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-04 20:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/035/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/035/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/035.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/035"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/036",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-04 20:23:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/036/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/036/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/036.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/036"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/037",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-04 21:17:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/037/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/037/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/037.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/037"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/038",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-04 21:50:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/038/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/038/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/038.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/038"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/039",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-04 22:18:00"
+    ]
+   },
+   "width": 960,
+   "height": 540,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/039/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/039/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/039.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 540
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/039"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/040",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-07 08:03:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/040/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/040/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/040.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/040"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/041",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-12 07:56:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/041/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/041/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/041.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/041"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/042",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 15:54:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/042/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/042/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/042.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/042"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/043",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 15:54:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/043/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/043/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/043.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/043"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/044",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 15:55:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/044/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/044/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/044.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/044"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/045",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 15:55:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/045/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/045/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/045.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/045"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/046",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 16:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/046/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/046/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/046.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/046"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/047",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 17:40:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/047/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/047/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/047.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/047"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/048",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 17:42:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/048/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/048/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/048.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/048"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/049",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 17:51:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/049/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/049/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/049.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/049"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/050",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-13 18:03:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/050/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/050/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/050.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/050"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/051",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-14 21:05:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/051/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/051/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/051.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/051"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/canvas/052",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2019-12-14 21:16:00"
+    ]
+   },
+   "width": 960,
+   "height": 544,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387365190/canvas/052/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387365190/canvas/052/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387365190/img/052.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 544
+       },
+       "target": "https://chenxu.life/iiif/2387365190/canvas/052"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "走近意大利西班牙艺术家的世界"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

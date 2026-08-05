@@ -1,0 +1,1138 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387931595/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "视觉疲劳的冲绳：不感觉陌生的新地方"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "日本·冲绳 · 2008-03-20 起 · 23张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "日本·冲绳"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2008-03-20 14:36:00 ~ 2008-03-22 20:17:11"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387931595.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "视觉疲劳的冲绳：不感觉陌生的新地方"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 14:36:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/001"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "去冲绳早有计划，而什么时候出发是仓促决定的。缘起一个媒体的朋友要做冲绳的 专题，请我帮忙统筹运作一些事情，真高兴我还有被利用的价值，因为签证原因阴 差阳错我成了不得不一起去的人了。 出发前简单地作了些功课，一个亚热带的过 中国春节的日本小岛，飞台北45分钟，飞上海90分钟，飞东京180分钟，辖 区内的与那国岛可以看到基隆，是一个离中国更近的地方，有争议的钓鱼岛也在这 附近！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 14:38:09"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 冲绳是一个古国，名为琉球王国。15世纪初，巴志王统一琉球，受明朝赐姓尚。 二战结束后变成了美军的军事基地，受到了长期的占领。即使是现在，美军基地占 用的土地仍达冲绳岛面积的20%。冲绳也是空手道的故乡，空手道是结合中国武 术特点创制的搏击术，最初称为“唐手”。1879年日本将琉球并入版图，设冲 绳县。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 14:41:52"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 首府那霸附近的首里城二战中曾毁于战火，战后1986年开始修复已恢复往日雄 姿。首里的王宫座西向东，北殿是接待中国使节和办政务的地方，南殿是接待萨摩 官员的地方。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 15:03:31"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 大叔是主殿里的工作人员，我们都脱了鞋进殿顺序参观，本不让照相的，看见腰间 的刀了吗？我是冒死拍的，就是为了真实记录，大叔的衣着怎么看也是有点中国风 、日本味的。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 15:12:13"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 主殿的双层建筑与北京故宫的太和殿极其相似，只是规模小一些，161根大柱子 ，6万片红瓦片，还有非常讲究的金狮飞龙等多种雕塑，充分的显示了琉球王朝的 辉煌历史。跟日本传统建筑有明显区别，颜色和风格都很中国风，尤其是主殿前面 还有一条龙。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 18:21:31"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 从国际大道沿市场主大道前行，是第一牧志公设市场，这个市场由战后的黑市发展 而来，曾作为老百姓的厨房支撑着冲绳的每个家庭，二层是饮食一条街，针对在一 层购买的新鲜食材提供加工服务，可以品尝地道的冲绳料理。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 18:35:41"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 第一牧志公设市场中的儿童画展，一个传统市场都这么文艺。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 18:47:07"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 柴鱼又称鲣节、木鱼，是金枪鱼科的鲣鱼的烟熏制品。将鲣鱼去除头尾、鱼骨，仅 采腹部后方的肌肉。取得鱼肉后先要蒸熟，鱼肉熟透后，再以柴薪文火炭烤10余 日，待水分蒸干后，即成为外貌黝黑、坚硬如木的鱼块，食用时再以机器或刨刀削 成薄片，就是一般所见的柴鱼片了，整个过程要持续8个月以上。因其坚硬如木， 故又称“木鱼”。这是一家经营柴鱼的老店。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 19:09:17"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 狮子像是驱逐恶灵以及伏火的充满神秘色彩的符咒。另外，它们也作为家庭权威的 象征以及装饰品。据说起源于埃及的狮身人面像。在公元2世纪左右，狮子像从埃 及经由中东、丝绸之路进入中国，在与中国交往密切的14-15世纪传入琉球。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 19:16:27"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 和中国的狮子不同的是，冲绳狮子威严中又不是可爱，成为人们心中可以信赖的圣 物同时也没有任何距离的感觉。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-20 19:40:44"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 很有爱的巴士。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-21 11:58:12"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 嘉手纳空军基地拥有两条3,700米的跑道，基地内有将近200架军用飞机驻 扎于此，是远东地区最大的空军基地。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-21 13:27:42"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 冲绳是个海岛，见过没见过的水上项目很多，3月份已经是20度左右了，大致每 年4月份开始就可以大规模开展水上活动了，我们乘玻璃船看了水下的珊瑚和鱼群 ，第一次见到成群的河豚，一些方头方脑的家伙，而且动作极为缓慢，很像《千与 千寻》中的河神，没有型。同时也有幸赶上了观鲸的末班车，据说它们很快就要去 加拿大那边了，我们一船人为每五分钟露一下尾巴鲸鱼尖叫了一上午，在又晕又冻 快到极限的时候，船返航了，船长拯救了我。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-21 15:17:44"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 这里的名字忘记了，但是清晰地记着从自行车后面的门通过一个螺旋的楼梯，深入 水下观看七彩斑斓的热带鱼群。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-21 15:41:48"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-21 19:25:11"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 冲绳海产丰富，按照媒体朋友事先做的功课，要去看一个贩卖海产的市场， 平和 通与公设市场就是其中一个目的地，这是个传统市场，很多冲绳主妇在此穿流，龙 虾、螃蟹、河豚、海螺、刺身等等琳琅满目，而且最有特点的就是可以一楼购买食 材二楼就可以加工食用。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-22 14:37:10"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 在美丽海水族馆可以透过堪称全世界最厚的60公分巨大压克力隔离板观看“黑潮 海洋”，眺望鲸鲨与鬼蝠鲼悠游水中的姿态。 一群人挤在玻璃前看鱼，我看一群 人和鱼，这正所谓教育体验和遁世体验吧！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/018",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-22 15:01:54"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/018/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/018/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/018"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/019",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-22 15:06:19"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/019/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/019/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/019"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/020",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-22 15:20:48"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/020/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/020/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/020"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 魔鬼鱼是一种庞大的热带鱼类，学名叫前口蝠鲼。它的个头和力气常使潜水员害怕 ，因为只要它发起怒来，只需用它那强有力的“双翅”一拍，就会碰断人的骨头， 致人于死地。所以人们叫它“魔鬼鱼”。从我头顶游过有点不寒而栗，很像美军B -2轰炸机，隐蔽而又具有攻击性。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/021",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-22 18:48:22"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/021/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/021/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/021"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 北谷美国村街口一个纪念某个诗人的雕塑，可惜没有记下全部日语的说明，由此萌 生要去恶补一下日语的想法，回来看凤凰卫视才知道我们走的那天冲绳的居民又在 示威抗议美军的暴行了，强奸、谋杀、滋事……在美日军事同盟的今天，冲绳人民 可能只有把诗人营造的美丽精神世界当成救命稻草了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/022",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-22 18:56:28"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/022/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/022/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/022.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/022"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 美国村是一处综合文化商业设施，美国村的醒目标志是直径50米的大观览车，美 国村内拥有以3D映像为主体的娱乐设施，8个屏幕的电影馆、购物中心、保龄球 场、美国餐厅、录音室、娱乐中心、进口杂货店等，另备有运动的复合设施。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/canvas/023",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2008-03-22 20:17:11"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931595/canvas/023/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931595/canvas/023/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931595/img/023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931595/canvas/023"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "视觉疲劳的冲绳：不感觉陌生的新地方 可以说冲绳是一个再平常不过的一个日本小岛了，历史不如中国悠久、海水不如帕 劳漂亮、购物不如美国便宜、城市不如东京繁华、民俗不如塞班特别、琉球料理风 味更像中国的红烧肉……对于这样一个不温不火的琉球古国，真有点视觉疲劳了， 但是也许因为是第一次而刚有了点感性印象吧，不过每年几百万的观光客也从另一 个角度说明了这是个很有粘性的地方，值得像吴哥MSN的名字一样play,r eplay……"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

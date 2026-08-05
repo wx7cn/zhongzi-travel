@@ -1,0 +1,620 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/collection.json",
+ "type": "Collection",
+ "label": {
+  "zh": [
+   "种子愛旅行 · 游记存档（2004–2019）"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "67篇游记、5197张照片的IIIF集合"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2388006408/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "泰热是有理由的"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931620/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "朝鲜不神秘：近距离看看被布置好的主体国家"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387932805/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "清澈见底的塞班"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931471/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "奔走在东京街头的日子"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931618/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "美西慢游"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931601/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "关西细节：只有在细微中才能感受日本传统美"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931560/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "济州一日"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "帕劳日记：一颗散落在太平洋上的珍珠"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006404/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "菲律宾马尼拉蜻蜓点水半日"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931551/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "首航北海道：没有色彩的季节北海道一样有味道"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "三星名品旅行：一次不一样的韩国"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387932912/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "晕晕的夏威夷假期：时差太大假期太短"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387932870/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "流动的韵律：行走在比利时法兰德斯"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931595/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "视觉疲劳的冲绳：不感觉陌生的新地方"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931526/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "台湾环岛走透透：深度感动体验……"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931565/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "在日本的半个月"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006428/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "云台山洛阳周末"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387932881/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "冬日九黄：错峰是一种策略"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931463/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "白色俄罗斯：大帝国很霸气"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387932855/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "缺氧的拉萨：总算到过西藏了"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388006447/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "31年后重访长寿县"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931495/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "釜山的圣托里尼：甘川文化村亚洲最美的村庄"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388205444/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "大邮轮第一次，我的皇家加勒比海洋航行者号首航"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931531/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "元上都：上都之北方有孤城"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387905709/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "行摄匆匆尼泊尔：走进净土感悟心动……"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931629/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "韩国龙平FunSki：不能错过的滑雪庆典"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388035129/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "每天在固定的地方流浪"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931599/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "阳朔山水甲桂林"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388002014/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "美东西太美看不过来：只能专注一城一船一路"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388002249/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "皇家加勒比海洋量子号：我是首航体验师"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388255513/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "坚强的仙儿不是土豪也快乐"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388213298/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "蓝宝石公主号+文艺的新加坡马来西亚"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2388502703/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "京都的水水花香灯茶饭"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2386611642/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "量子狂欢夜：在海洋量子号上的几个小时"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2386564206/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "就是现在来首尔吧！"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2386587747/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "盘锦大洼不仅只有红海滩"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2386590222/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "没有你首尔很想念"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2386831624/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "乌兰布统天下最美"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387116174/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "你有多久没有看过那片海"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387097791/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "微笑的斯里兰卡"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387087646/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "济州岛桔子又熟了"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387109836/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "从釜山到DMZ铁路旅行"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387103884/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "用心过好每一天"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387281050/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "全罗南道慢城慢慢走"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387276083/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "海洋赞礼号首航新发现"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387239910/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "高颜值云顶梦号爱一回"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387240809/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "新老澳门到此一游"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387234857/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "砥砺走过2017……"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387458967/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "It's you！2018平昌冬奥先睹为快"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387467848/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "首航揭开诺唯真喜悦号的面纱"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387416815/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "美丽的塞班美丽的海"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387440712/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "89秒埃及已过6000年"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387434041/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "关岛周末游"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387428273/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "第108次韩国去江原道"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388407/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "时间旅行，缘起性空"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387388400/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "美国间谍卫星发现了客家土楼"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387385030/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "首尔光州的文创旅行"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387402698/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "MSC地中海辉煌号一期一会"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387401999/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "海洋魅丽号东西加勒比，换个角度看你"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387360117/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "One night in Taipei 我留下许多情"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387354351/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "北海涠洲岛一日还"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387355636/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "塞班航拍+星空"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387350608/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "2019年吉祥生活"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387376227/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "海洋光谱号超量子系列首航中国"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387372355/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "发现文莱低调的幸福"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387369779/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "人在中央亚细亚"
+    ]
+   }
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387365190/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "zh": [
+     "走近意大利西班牙艺术家的世界"
+    ]
+   }
+  }
+ ]
+}

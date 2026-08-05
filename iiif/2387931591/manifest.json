@@ -1,0 +1,1920 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387931591/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "帕劳日记：一颗散落在太平洋上的珍珠"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "帕劳 · 2006-12-15 起 · 40张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "帕劳"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2006-12-15 12:00:00 ~ 2006-12-21 17:30:00"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387931591.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "帕劳日记：一颗散落在太平洋上的珍珠"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-15 12:00:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/001"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "在浩瀚的太平洋上，散落着无数的珍珠，帕劳就是其中的一颗，看过葛优电影的人 都会记得这句台词，传多了似乎也贬低了帕劳。今天要辗转飞去这个传说中的珍珠 岛国，才真正意识到为什么这里是美国国家地理推荐的50个值得去的目的地，我 决定从今天起写帕劳日记，我要把这个在2006年的年末，一个特别的体验经历 记录下来。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 02:30:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 从北京经马尼拉辗转来到这里，从马尼拉出发的飞机非常空，我也得以用坐席的票 价享受了卧铺。帕劳是落地签，由于此次是跟随几位常来帕劳的人一起，所以入关 非常顺利，同时移民官还告诉我们帕劳海关关长以及移民局负责人向我们问好，非 常欢迎我们来到帕劳。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 03:28:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 我的酒店大堂还没有北京某些别墅的玄关大，但是很亲切和温馨，由于到得太晚， 再加上出门的时候有些发烧，一到酒店直奔房间睡了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 09:57:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 早上原本计划晚点起，不知是兴奋还是生物钟已经定型了，没等叫早就洗漱完毕了 ，坐在大堂里才发现酒店的设计非常别致，虽然不大但是错落有致，不同的位置有 不同的空间感。  在餐厅用早餐才知道酒店不超过20间房，更像是个世界之家 ，坐在大厅里看到出出进进的人，有英国的、韩国的、台湾的、菲律宾的，还有一 些看不出国籍的盆友。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 12:18:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 11点半我被接到PPR和另几个人会合，一起出海了。上午一直在下雨，时大时 小的，海上也多少有些风浪，我努力想用清晰的海浪定格来证明我们正在乘风破浪 。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 13:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 午餐是新鲜的石斑鱼，本该自己动手钓的，但是担心时间来不及以及的确手潮，我 们向路过的渔船讨要了几条，他们也爽快地给了，随后他们又返回头去捕捞了，因 为午餐的食材给我们了，自己还是要想办法填饱肚子的。 我当时就感叹帕劳的查 莫洛人真是善良淳朴呀……当然陪同我们的也是帕劳家喻户晓的名人。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 15:25:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 他始终不愿意配合我拍照，我不知道在查莫洛的信仰中是否也有照相会被摄走魂魄 之说，当然我的手更快了，还是留下了他天真的笑脸。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 16:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 这是美国《幸存者》的拍摄地，据说当时分了两组，这是分组赛时一组的大本营， 最后决胜负的时候也是在这里。据说赢得比赛的人也是经过勾心斗角才取得胜利的 ，真是糟蹋了美景。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 16:47:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 “寻找下一个港湾，我是等爱的水手。”  在归航的船上，忙了半天的船员终于 可以休息一下了，静静地享受着海风，不知道他心里在想什么？也许我们的快乐对 于他来说是最大的满足。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 17:27:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 太平洋日落是浪漫的，几对韩国男女登上了一条浪漫之船，曾几何时我们也在塞班 享用过美丽的太平洋日落晚餐。中国男人什么时候能像韩国人一样浪漫，即使再肉 麻再醋熘也无所谓。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 17:41:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 标准的海岛片，如果来帕劳不出一两张这样的片子，简直是白来了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-16 17:50:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 晚餐是州长等政要请客，丰盛、实在、应酬。  回到温馨的Cliffside 酒店，到现在为止我一直都还摊在大堂的沙发里写《帕劳日记》，回想今天去过的 水母湖，至今还有些紧张，那里是世界上独一无二的无毒水母湖，在里面游泳随时 可以碰到它们，用浮潜镜能看到几百万只大的小的水母绝对震撼。只是这次没有准 备好水下摄影的设备，错过了水下的美景，也许遗憾是下一次再来的动力吧。   明天是个钓鱼的日子，据说同行的人上次竟然钓了一条300磅的金枪鱼，有1. 6米，希望明天好运气。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 06:01:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 帕劳太平洋度假村是当地最好的酒店，280美金一晚，茅草屋顶很有民族风。同 时这里也是出海的码头，这已经是第二次从这里上船了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 06:19:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 据说今天要去很远的地方，游泳池里静静地倒映着椰树，大家都还在呼呼大睡吧。 我比鸡起得都早，6点钟就赶到PPR的码头了，还没有睡醒。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 06:24:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 7点准时开船了，在享受了速度的快感之后，很快就觉得在船上是一种煎熬，甚至 有点恶心。望着茫茫大海不知道要去哪儿，我只能找个地方平躺下来，可能是昨晚 睡得太少，竟然打起呼噜来，我几次都是被自己的呼噜吵醒的，不过这样也好，至 少暂时可以把恶心抛到一边去，在这一刻工作、生活、压力显得都不重要了，只要 找一个能让自己舒服点的姿势就够了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/016",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 10:43:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/016/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/016/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/016"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 不知是在第几次醒来的时候，我发现其他人也都躺平了，兴奋劲儿也过去了，不过 只有当地两个船员还似乎很平静，正所谓没有大喜也就不会有大悲吧。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/017",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 12:20:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/017/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/017/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/017"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 午餐是从PPR酒店带来的便当，有饭团和炸鸡水果什么的，因为一直在睡觉没什 么胃口，随便胡乱吃了几口。  饭后的时间是痛苦的， 又开始恶心了，早上还 可以因为困很快地睡过去，但是这会儿无论如何睡不着，谁说吃过饭血液都到胃里 帮助消化就犯困？我比任何时候都清醒，感觉着人在天旋地转，甚至胃里食物也跟 着一样地转，旋转孕育了力量，最终我忍无可忍，在船边爆发了，午餐甚至早餐统 统吐出来了，唉！在船上的时间过得真慢呀。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/018",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 14:52:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/018/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/018/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/018"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 船老大为了照顾我的身体，提议到最近的小岛上休息30分钟，重新回到陆地上明 显感觉人还在晃。  这是个很安静的岛，岛上有人，还有很多生锈腐烂的钢铁， 老大向我们介绍这是二战中非常残烈的一个战场，美国人为了夺得这个岛在这里损 失了3000大兵，据说夏威夷联合公墓中有很多大兵死于帕劳，日军损失300 00，这个岛那个年代战死的军人比现在整个帕劳的人口还要多。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/019",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 16:22:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/019/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/019/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/019"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 再次出发了，海上又有风浪了，短暂的休息还真的很奏效，目标PPR码头冲冲冲 ！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/020",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 16:40:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/020/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/020/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/020"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 终于看到希望了，走进了帕劳标志性的小岛群，我给命名的，天气也平静下来，心 情也舒缓下来了，看看表已经快下午5点了，在船上已经10个小时了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/021",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-17 16:51:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/021/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/021/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/021"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 望着背后的黄昏暮色，88了海上钓鱼经历，下次这个项目一定不能参加了，煎熬 之旅。  今天钓鱼还是有收获的，一条WAHOO至少60磅，还有几条别的， 这些鱼看起来很具攻击性，尖尖的嘴巴，据说它一口能把人的手指头咬下来，当然 最终还是人类是强者，晚餐的内容之一是WAHOO的刺身和椒盐炸的WAHOO 。  又到了写日记的时间了，我还在晃，希望睡一觉能好些。  另外，同行的 人告诉我我的酒店中文名字是“悬崖边酒店”看来是要让住在这里的人居安思危了 。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/022",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-18 13:13:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/022/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/022/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/022.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/022"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 下午安排了公务活动，要穿有领有袖的衣服，因为下午要见帕劳议会的领袖。帕劳 的大领导们都在新首都办公，一路上听介绍知道新首都是在原来大酋长的故乡，是 在今年10月1日帕劳独立日启用的一个新建筑，原来请夏威夷设计师设计的，是 传统式的，但是被否定了，重新设计的有点像白宫但又有些希腊雅典的味道。但是 新首都只有这一个建筑，其他的要慢慢迁过来。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/023",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-18 13:16:25"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/023/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/023/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/023"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 在这里有立法、司法、行政各部门，我们和议会领袖愉快地交谈了1个小时，当然 不是我，是同去的朋友，通过他们的谈话，可以了解很多关于帕劳的事情，比如建 国的历史、加入联合国的过程、经济状况、发展前景……从理性的层面了解了这个 只有12年历史又和我们同一天建国的国家。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/024",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-18 16:19:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/024/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/024/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/024.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/024"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 下午很早就回到酒店了，准备在酒店的海域游泳浮潜，本来同行的人说要用东西喂 鱼好吸引鱼群，据说以前他们来就是这么做的，但是这次被告知这种做法被禁止了 ，因为要保护环境，看来他们在大力吸引游客的同时，已经开始注重环保了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/025",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-18 17:49:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/025/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/025/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/025.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/025"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 酒店一天一个特色晚餐，今天的是意大利餐，酒店放着Gregorian教皇合 唱团今年圣诞特辑《A Spaceman Came Travelling》 ，让我想起回想起齐秦的直到世界末日，浪漫极了……我们的晚餐是中餐馆的鸳鸯 火锅，能在遥远的西太平洋中吃到家乡口味对于我来说真是个惊喜。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/026",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-18 18:00:00"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/026/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/026/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/026.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/026"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 席间主人告诉我们帕劳最早的历史可以追朔到400多年前，一个西班牙船队因为 触礁才找到帕劳，为了能继续航行，用一面镜子换取了25根大木头和若干劳动力 用以修船，同时还用叉子勺子作为工资叫帕劳人做这做那，并且以带酋长的儿子去 英国过好日子为条件，换取了半年的补给顺利地离开了帕劳，并承诺会再次来帕劳 的。据说被带走的酋长儿子在英国生活得很好，今天在伦敦有一条街名就是以酋长 儿子的名字命名的，我想这也是帕劳人这些年可以出去留学后才知道的吧。当年， 这一别无异于诀别了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/027",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-18 21:01:11"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/027/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/027/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/027.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/027"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 西班牙人真的又回来了，他们带来了传教士、医生、教师，因此今天帕劳90%的 人信奉天主教，10%信奉基督教，所有人都有信仰并安居乐业。  晚餐后，主 人特意带我们参观了KOROR最大的天主教堂，由于今天有圣诞前的聚会，所以 我们去的时候一群人刚刚要散去。这里和一家教会小学也一体的，包括主人在内的 全岛人几乎都是出自这所小学，主人还向我们讲起了小学时代的忏悔趣事，男孩子 们经常会很紧张地向神父忏悔一些自认为的错事，一个男孩就曾说：“神父，我今 天没穿内裤，我要忏悔！”神父笑了……  安静的小岛，圣诞的前夜，听着教皇 合唱团11月出的圣诞新歌《A Spaceman Came Travell ing》，感觉很特别，我更理性地了解帕劳了。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/028",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 10:02:22"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/028/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/028/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/028.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/028"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 上午是最有势力的州长亲自给我们安排的丛林游，昨天晚餐的时候，州长就书面给 确认了今天的具体事项，几点到几点在某地见面，几点到几点划双人艇进雨林，几 点到几点在某个小村庄用午餐，几点返回，都确认地一丝不苟，做事风格有点像日 本人。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/029",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 10:06:35"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/029/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/029/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/029.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/029"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 开始很一般，甚至可以说糟糕，但是越划越棒，千年树精、神奇光晕、被树蚁啃噬 的朽木，非常有意思……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/030",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 10:23:17"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/030/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/030/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/030.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/030"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 终点是个已经废弃的小村庄，但是还能通过石头的地基想象以前房屋的大小，州长 向我们介绍了以前象征酋长权威的石椅，我看酋长不好当，这么难受的位子还抢着 坐。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/031",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 10:30:33"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/031/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/031/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/031.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/031"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/032",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 10:58:39"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/032/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/032/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/032.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/032"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 午餐本以为是从哪个酒店打包带来的便当，但是州长就是州长，竟然在这个废弃的 小村庄里准备了丰盛的自助餐，有龙虾、海参、WAHOO鱼排、当地的番薯、水 果……甚至还有新鲜的椰子，这比国内任何一个海鲜自助餐都实惠。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/033",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 11:01:17"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/033/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/033/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/033.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/033"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 我拣了几样我自己爱吃的，一顿清午餐健康！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/034",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 11:20:58"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/034/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/034/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/034.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/034"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 顺着石阶而上，我以为会看到美丽的海景，但是我错了，是一片坟墓，据说其中一 个是上周五才下葬的，为了表示尊重我没有拍照，同时也怕不吉利。按当地人的习 惯，生前无论在哪儿生活，死后都要回到出生的村庄安葬。这些坟墓中有一个很特 别的，是用酒瓶砌的，我们都以为墓的主人一定很爱喝酒，死后用酒瓶做墓志铭， 但是错了，州长讲那是二战时候下葬的墓，当时日本人在帕劳很喜欢喝酒，扔弃了 很多酒瓶，当地人就捡回来当建筑材料用。我回头看了一下上周五下葬的墓，上面 铺了一张铁皮……"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/035",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 11:23:12"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/035/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/035/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/035.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/035"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 饭后据说还要划回去，所有人都晕菜了，只有我跃跃欲试，因为来的时候为了拍照 根本就没有划，回去要好好体验一下！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/036",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 12:45:08"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/036/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/036/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/036.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/036"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 随后安排我们去参观了一个据说是纪念帕劳英雄的地方，看塑像那个英雄至少也是 几百年前的人物了。  满院子都开着娇艳的热带花，这种花在夏威夷、关岛、塞 班、帕劳哪儿哪儿都是，但是一时想不起名子来了，姑且叫它太平洋岛国花。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/037",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 12:46:33"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/037/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/037/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/037.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/037"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 说英雄是与打渔有关的，毕竟要生存嘛。这里还展示了一条用整根木头雕成的大渔 船，是根据以前的记载复制的，上面涂着鲜艳的颜色和古人捕鱼的场景，现在帕劳 还在用图案上的方式捕捞龙虾，据说是用一把射枪不带任何氧气瓶潜水到10米深 的地方，用射枪把龙虾射中在捕捞上来。在帕劳1磅龙虾5美金，当地人根本就不 吃，因为各种各样的鱼都吃不过来。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/038",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 12:49:09"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/038/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/038/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/038.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/038"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 我还看到一个很特别的地方，看样子应该是卖东西的，可是没有陈列东西，里面的 掌柜的也是很无聊地看着我们，柜台上挂的海螺似乎也是装饰用的。帕劳人生活是 安逸的，人均GDP7000美金，比中国高多了，无论住的房子好坏，每家都至 少有3部车，所以帕劳20000人，可是据说车有20000多部车。中国人生 活压力真大呀！"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/039",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 14:44:42"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/039/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/039/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/039.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/039"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 回到酒店的时候看到了一辆School Bus，一群小学生刚好放学，我追上 去不由分说拍了一阵，孩子们也很大方，摆出各种姿势配合，我挑了个最可爱的。"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931591/canvas/040",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2006-12-19 14:44:52"
+    ]
+   },
+   "width": 960,
+   "height": 638,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931591/canvas/040/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931591/canvas/040/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931591/img/040.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 638
+       },
+       "target": "https://chenxu.life/iiif/2387931591/canvas/040"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "帕劳日记：一颗散落在太平洋上的珍珠 帕劳的行程到此已经基本结束了，《帕劳日记》也要告一段落了。小女孩的手势在 中国可以解读为“我爱你”，但是在帕劳就要解读为“你好，欢迎你来帕劳！”"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

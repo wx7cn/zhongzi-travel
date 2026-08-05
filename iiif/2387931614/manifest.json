@@ -1,0 +1,756 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://chenxu.life/iiif/2387931614/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "zh": [
+   "三星名品旅行：一次不一样的韩国"
+  ]
+ },
+ "summary": {
+  "zh": [
+   "韩国 · 2007-05-03 起 · 15张照片"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "zh": [
+     "目的地"
+    ]
+   },
+   "value": {
+    "zh": [
+     "韩国"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "时间"
+    ]
+   },
+   "value": {
+    "zh": [
+     "2007-05-03 16:20:26 ~ 2007-05-05 20:34:16"
+    ]
+   }
+  },
+  {
+   "label": {
+    "zh": [
+     "来源"
+    ]
+   },
+   "value": {
+    "zh": [
+     "原发表于面包旅行平台，作者存档重建"
+    ]
+   }
+  }
+ ],
+ "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+ "requiredStatement": {
+  "label": {
+   "zh": [
+    "版权"
+   ]
+  },
+  "value": {
+   "zh": [
+    "图片版权归陈栩·chenxu.life所有｜未经许可禁止商用"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://chenxu.life/trips/2387931614.html",
+   "type": "Text",
+   "label": {
+    "zh": [
+     "三星名品旅行：一次不一样的韩国"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/001",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-03 16:20:26"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/001/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/001/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/001"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/002",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-03 16:51:11"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/002/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/002/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/002"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/003",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-03 17:29:27"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/003/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/003/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/003"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/004",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-03 18:21:53"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/004/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/004/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/004"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/005",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-03 18:23:14"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/005/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/005/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/005"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/006",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-03 18:23:55"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/006/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/006/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/006"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/007",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-03 20:18:20"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/007/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/007/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/007"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/008",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-03 22:45:33"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/008/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/008/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/008"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/009",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-04 23:00:31"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/009/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/009/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/009"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/010",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-05 17:23:22"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/010/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/010/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/010"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/011",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-05 17:25:01"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/011/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/011/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/011"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/012",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-05 18:22:36"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/012/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/012/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/012"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/013",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-05 19:24:40"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/013/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/013/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/013"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/014",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-05 20:34:01"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/014/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/014/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/014"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://chenxu.life/iiif/2387931614/canvas/015",
+   "type": "Canvas",
+   "label": {
+    "zh": [
+     "2007-05-05 20:34:16"
+    ]
+   },
+   "width": 960,
+   "height": 720,
+   "items": [
+    {
+     "id": "https://chenxu.life/iiif/2387931614/canvas/015/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://chenxu.life/iiif/2387931614/canvas/015/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://chenxu.life/data/2387931614/img/015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 720
+       },
+       "target": "https://chenxu.life/iiif/2387931614/canvas/015"
+      }
+     ]
+    }
+   ],
+   "metadata": [
+    {
+     "label": {
+      "zh": [
+       "文字记录"
+      ]
+     },
+     "value": {
+      "zh": [
+       "三星名品旅行：一次不一样的韩国"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
