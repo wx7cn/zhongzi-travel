@@ -125,6 +125,25 @@ header.site{display:flex; align-items:center; justify-content:space-between; pad
 .tn-next{margin-left:auto; text-align:right;}
 .trip-nav a:hover{text-decoration:underline; text-decoration-color:var(--gold); text-decoration-thickness:3px; text-underline-offset:5px;}
 
+/* ---------- 互动条 / 分享 / 评论 ---------- */
+.act-bar{display:flex; align-items:center; gap:10px; margin-top:44px; padding:16px 0; border-top:1px solid var(--line); flex-wrap:wrap;}
+.act-like{font-family:var(--sans); font-size:.9rem; padding:8px 20px; border-radius:999px; border:1.5px solid var(--gold); background:transparent; color:var(--gold); cursor:pointer; transition:all .15s ease;}
+.act-like:hover{background:rgba(168,63,42,.08);}
+.act-like.liked{background:var(--gold); color:#fff;}
+.act-like .act-heart{margin-right:2px;}
+.act-sep{flex:1;}
+.act-share{font-family:var(--sans); font-size:.8rem; padding:6px 14px; border-radius:999px; border:1px solid var(--line); background:transparent; color:var(--ink-soft); cursor:pointer;}
+.act-share:hover{border-color:var(--gold); color:var(--gold);}
+.act-toast{position:fixed; left:50%; bottom:60px; transform:translateX(-50%) translateY(10px); background:rgba(30,26,20,.92); color:#f0ece3; font-size:.85rem; padding:10px 22px; border-radius:999px; opacity:0; transition:all .3s ease; z-index:300;}
+.act-toast.show{opacity:1; transform:translateX(-50%) translateY(0);}
+.qr-mask{position:fixed; inset:0; background:rgba(20,16,12,.7); display:flex; align-items:center; justify-content:center; z-index:300; cursor:pointer;}
+.qr-box{background:#fff; border-radius:12px; padding:26px 30px 18px; text-align:center;}
+.qr-box p{margin-top:12px; font-size:.82rem; color:var(--ink-soft);}
+.qr-code{width:180px; height:180px; margin:0 auto;}
+.comments{margin-top:44px; padding-top:26px; border-top:1px solid var(--line);}
+.cm-title{font-family:var(--serif); font-size:1.3rem; font-weight:900; margin-bottom:16px;}
+.tk-pending{font-size:.88rem; color:var(--ink-faint); background:var(--paper-warm); border:1px dashed var(--line); border-radius:8px; padding:18px; text-align:center;}
+
 footer.site{border-top:2px solid var(--ink); margin-top:40px; padding:36px 20px; text-align:center; font-size:.78rem; color:var(--ink-faint);}
 .f-brand{font-family:var(--serif); font-weight:900; font-size:1rem; color:var(--ink); letter-spacing:.15em; margin-bottom:8px;}
 
