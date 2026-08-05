@@ -82,6 +82,20 @@ header.site{display:flex; align-items:center; justify-content:space-between; pad
 .mk:hover .mk-pin,.mk:hover .mk-hole{transform:translateY(-2px); transition:transform .15s ease;}
 @media (max-width:640px){ .map-block{padding:20px 16px 4px;} }
 
+/* ---------- 年份索引 ---------- */
+.year-index{max-width:1280px; margin:0 auto; padding:44px 32px 40px;}
+.yi-head{display:flex; align-items:baseline; gap:16px; margin-bottom:20px;}
+.yi-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:18px;}
+.yi-tile{position:relative; aspect-ratio:16/9; overflow:hidden; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;}
+.yi-tile img{position:absolute; inset:0; width:100%; height:100%; object-fit:cover; transition:transform .3s ease;}
+.yi-tile:hover img{transform:scale(1.06);}
+.yi-cover{position:absolute; inset:0; background:rgba(20,16,12,.52); transition:background .3s ease;}
+.yi-tile:hover .yi-cover{background:rgba(140,47,29,.55);}
+.yi-year{position:relative; z-index:2; font-family:var(--serif); font-size:2.3rem; font-weight:900; color:#f2ecdd; letter-spacing:.06em; text-shadow:0 2px 10px rgba(0,0,0,.5);}
+.yi-meta{position:relative; z-index:2; font-size:.72rem; letter-spacing:.15em; color:rgba(242,236,221,.85); margin-top:4px;}
+
+.year-hero{padding:36px 32px 0;}
+
 .trip-hero{position:relative; max-height:78vh; overflow:hidden;}
 .hero-img{width:100%; max-height:78vh; object-fit:cover;}
 .hero-overlay{position:absolute; left:0; right:0; bottom:0; padding:110px 40px 44px; background:linear-gradient(transparent, rgba(0,0,0,.75)); color:#fff; text-align:center;}
