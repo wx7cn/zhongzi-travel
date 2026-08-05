@@ -107,13 +107,15 @@ header.site{display:flex; align-items:center; justify-content:space-between; pad
 .about-page{max-width:680px; margin:0 auto; padding:40px 24px 80px;}
 .about-title{font-family:var(--serif-display); font-size:2.4rem; font-weight:900; margin:14px 0 8px;}
 .about-lede{font-size:.85rem; letter-spacing:.1em; color:var(--ink-faint); margin-bottom:36px;}
-.about-tree{display:block; width:100%; max-width:340px; margin:0 auto 40px;}
-.about-fable{margin:0 0 40px; padding:28px 30px; background:var(--paper-warm); border-left:4px solid var(--gold);}
+.about-content{position:relative;}
+.about-tree-bg{position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:100%; max-width:520px; opacity:.07; pointer-events:none; z-index:0;}
+.about-fable{position:relative; z-index:1; margin:0 0 40px; padding-left:26px; border-left:4px solid var(--gold);}
 .about-fable p{font-family:var(--serif-display); font-size:1.1rem; line-height:2.2; color:var(--ink); margin-bottom:16px;}
 .about-fable p:last-child{margin-bottom:0;}
+.about-body{position:relative; z-index:1;}
 .about-body p{font-family:var(--serif); font-size:1.05rem; line-height:2.1; color:var(--ink-soft); margin-bottom:22px;}
 .about-note{font-size:.85rem; color:var(--ink-faint); font-style:italic;}
-.about-contact{margin-top:36px; padding-top:26px; border-top:1px solid var(--line);}
+.about-contact{position:relative; z-index:1; margin-top:36px; padding-top:26px; border-top:1px solid var(--line);}
 .ac-label{display:block; font-size:.72rem; letter-spacing:.2em; color:var(--ink-faint); margin-bottom:8px;}
 .about-contact a{font-family:var(--serif-display); font-size:1.15rem; color:var(--gold); border-bottom:1px solid rgba(168,63,42,.35);}
 
