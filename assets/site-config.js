@@ -1,6 +1,7 @@
 // 站点互动配置。
-// twikooEnvId: 腾讯云CloudBase环境ID（老板开通后填入，评论/点赞即上线）。
-// 留空时：评论区显示"开通中"，点赞仅存于访客本机。
+// twikooEnvId: Twikoo后端（腾讯云CloudBase HTTP访问地址）
+// likeApi: 点赞计数API（同环境like云函数）
 window.SITE_CONFIG = {
-  twikooEnvId: ''
+  twikooEnvId: 'https://zhongzi-travel-d6g79nbz6cd54d4dd-1453915139.ap-shanghai.app.tcloudbase.com/twikoo',
+  likeApi: 'https://zhongzi-travel-d6g79nbz6cd54d4dd-1453915139.ap-shanghai.app.tcloudbase.com/like'
 };
