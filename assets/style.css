@@ -181,6 +181,9 @@ body:has(.exhibit){background:#101010;}
 }
 
 @media (max-width:640px){
+  /* 竖屏裁剪时平移画面：渔翁(原图x≈58%)完整落在右下黄金分割位 */
+  .home-hero-bg{object-position:55% center; animation:none; transform:none;}
+  .home-hero-inner{transform:translateY(-9vh);}
   .masthead{padding:44px 16px 30px;}
   .masthead h1{font-size:2.1rem;}
   header.site{padding:12px 16px;}
