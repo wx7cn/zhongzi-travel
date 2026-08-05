@@ -16,11 +16,31 @@ header.site{display:flex; align-items:center; justify-content:space-between; pad
 .brand-frame{width:22px; height:28px; border:5px solid var(--gold); display:inline-block;}
 .tagline{font-size:.68rem; color:var(--ink-faint); letter-spacing:.25em;}
 
-.masthead{text-align:center; padding:72px 20px 48px;}
-.masthead h1{font-family:var(--serif); font-size:3.4rem; font-weight:900; letter-spacing:.12em;}
-.masthead-sub{margin-top:14px; font-size:.85rem; letter-spacing:.2em; color:var(--ink-soft);}
-.masthead-sub .dot{color:var(--gold); margin:0 4px;}
-.masthead-note{margin:20px auto 0; color:var(--ink-faint); font-size:.9rem; max-width:520px; font-family:var(--serif);}
+/* ---------- 首页电影感开场 ---------- */
+.home-hero{position:relative; height:100vh; min-height:540px; display:flex; align-items:center; justify-content:center; overflow:hidden; background:#0c0c10;}
+.home-hero-bg{position:absolute; inset:0; width:100%; height:100%; object-fit:cover; opacity:.85; animation:heroZoom 18s ease-out forwards;}
+@keyframes heroZoom{from{transform:scale(1.12);}to{transform:scale(1.0);}}
+.home-hero::after{content:""; position:absolute; inset:0; background:radial-gradient(ellipse at center, transparent 30%, rgba(8,8,12,.55) 100%);}
+.home-hero-inner{position:relative; z-index:2; text-align:center; color:#f2ecdd; padding:0 20px;}
+.hh-kicker{font-size:.72rem; letter-spacing:.5em; color:#e8c66a;}
+.home-hero-inner h1{font-family:var(--serif); font-size:clamp(2.6rem, 8vw, 5.2rem); font-weight:900; letter-spacing:.14em; margin:22px 0 14px; text-shadow:0 4px 30px rgba(0,0,0,.6);}
+.hh-line{font-family:var(--serif); font-size:clamp(1rem, 2.6vw, 1.4rem); letter-spacing:.5em; color:rgba(242,236,221,.92); text-indent:.5em;}
+.hh-stats{margin-top:30px; font-size:.8rem; letter-spacing:.25em; color:rgba(242,236,221,.65);}
+.hh-stats .dot{color:#e8c66a; margin:0 6px;}
+.hh-cue{position:absolute; bottom:26px; left:0; right:0; text-align:center; z-index:2; color:rgba(242,236,221,.6); font-size:1.1rem; animation:exbob 2s ease-in-out infinite;}
+
+/* ---------- 宣言 ---------- */
+.manifesto{max-width:660px; margin:0 auto; padding:88px 24px 64px; text-align:center; font-family:var(--serif);}
+.manifesto p{font-size:1.12rem; line-height:2.3; color:var(--ink-soft);}
+.manifesto .mf-strong{margin-top:34px; color:var(--ink); font-size:1.2rem;}
+.manifesto em{font-style:normal; color:var(--gold); border-bottom:3px solid rgba(168,63,42,.35); padding-bottom:2px;}
+
+/* ---------- 展厅CTA ---------- */
+.exhibit-cta{display:flex; align-items:baseline; justify-content:center; gap:18px; background:#141414; color:#f0ece3; padding:30px 20px; margin:36px 0;}
+.exhibit-cta .ec-kicker{font-size:.68rem; letter-spacing:.35em; color:#e8c66a;}
+.exhibit-cta .ec-title{font-family:var(--serif); font-weight:900; font-size:1.15rem; letter-spacing:.08em;}
+.exhibit-cta .ec-arrow{color:#e8c66a; transition:transform .2s ease;}
+.exhibit-cta:hover .ec-arrow{transform:translateX(6px);}
 
 .feature{display:block; position:relative; max-width:1280px; margin:0 auto 24px; overflow:hidden;}
 .feature img{width:100%; max-height:72vh; object-fit:cover;}
@@ -51,7 +71,7 @@ header.site{display:flex; align-items:center; justify-content:space-between; pad
 .map-head{display:flex; align-items:baseline; gap:16px; margin-bottom:14px;}
 .map-title{font-family:var(--serif); font-size:1.5rem; font-weight:900; letter-spacing:.1em;}
 .map-sub{font-size:.75rem; color:var(--ink-faint); letter-spacing:.12em;}
-.wmap{width:100%; height:auto; display:block; background:var(--paper-warm); border:1px solid var(--line);}
+.wmap{width:100%; height:auto; display:block;}
 .wmap-land polygon{fill:#d8cdb6; stroke:#c4b797; stroke-width:.4;}
 .mk{cursor:pointer;}
 .mk-pin{stroke:rgba(90,25,12,.45); stroke-width:.5;}
