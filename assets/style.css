@@ -21,7 +21,6 @@ img{max-width:100%; height:auto; display:block;}
 
 header.site{display:flex; align-items:center; justify-content:space-between; padding:16px 32px; border-bottom:2px solid var(--ink); background:var(--paper); position:sticky; top:0; z-index:50;}
 .brand{font-family:var(--serif-display); font-size:1.3rem; font-weight:900; letter-spacing:.08em; display:flex; align-items:center; gap:10px;}
-.brand-ai{color:#e8c66a;}
 .brand-frame{width:22px; height:28px; border:5px solid var(--gold); display:inline-block;}
 .tagline{font-size:.68rem; color:var(--ink-faint); letter-spacing:.25em;}
 
@@ -231,7 +230,7 @@ body:has(.exhibit){background:#101010;}
   header.site.site-overlay{position:absolute; top:0; left:0; right:0; background:transparent; border-bottom:none; z-index:60; flex-wrap:nowrap; justify-content:center; padding:16px 12px;}
   header.site.site-overlay .brand{display:none;}
   header.site.site-overlay .hdr-nav{gap:8px; flex-wrap:wrap; justify-content:center;}
-  header.site.site-overlay .hdr-link{color:#f2ecdd; border-color:rgba(242,236,221,.55); font-size:.78rem; padding:6px 14px; white-space:nowrap;}
+  header.site.site-overlay .hdr-link{color:#e8c66a; border-color:#e8c66a; border-radius:999px; font-size:.78rem; padding:6px 16px; white-space:nowrap;}
   .feature-text{padding:60px 20px 24px;}
   .feature-text h2{font-size:1.4rem;}
   .feature-excerpt{display:none;}
