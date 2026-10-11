@@ -39,6 +39,10 @@ header.site{display:flex; align-items:center; justify-content:space-between; pad
 .cf-bg img{position:absolute; top:-8%; left:-8%; width:116%; height:116%; max-width:none; object-fit:cover; filter:blur(44px) saturate(1.2) brightness(.42); opacity:0; transition:opacity 1.1s ease;}
 .cf-bg img.on{opacity:1;}
 .cf-bg::after{content:""; position:absolute; inset:0; background:radial-gradient(ellipse at 50% 58%, rgba(10,8,6,0) 15%, rgba(10,8,6,.72) 100%);}
+/* 首页首屏：背景直接换成正位卡片的照片（清晰、压暗），切卡时交叉淡入 */
+.home-hero .cf-bg img{top:0; left:0; width:100%; height:100%; filter:brightness(.45) saturate(1.05); transform:scale(1.06); transition:opacity 1.2s ease, transform 7s ease-out;}
+.home-hero .cf-bg img.on{transform:scale(1);}
+.home-hero .cf-bg::after{background:linear-gradient(rgba(10,8,6,.35), rgba(10,8,6,0) 30%, rgba(10,8,6,0) 55%, rgba(10,8,6,.75)), radial-gradient(ellipse at 50% 55%, rgba(10,8,6,0) 35%, rgba(10,8,6,.55) 100%);}
 .cf-track{position:relative; z-index:1; display:flex; gap:16px; overflow-x:auto; padding:22px 20px; scroll-snap-type:x mandatory;}
 .cf-card{flex:0 0 var(--cf-w); aspect-ratio:4/5; position:relative; overflow:hidden; border-radius:6px; background:#2a2520; scroll-snap-align:center; user-select:none; -webkit-user-select:none; -webkit-tap-highlight-color:transparent; box-shadow:0 26px 50px -20px rgba(0,0,0,.8), 0 0 0 1px rgba(242,236,221,.08);}
 .cf-card img{width:100%; height:100%; object-fit:cover; pointer-events:none;}

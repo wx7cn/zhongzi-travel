@@ -116,8 +116,10 @@ document.addEventListener('keydown', function(e){
       var img = c.querySelector('img'), src = img.getAttribute('src');
       var nxt = bgs[1 - bgOn], old = bgs[bgOn];
       if(!nxt || old.getAttribute('src') === src) return;
+      nxt.style.objectPosition = img.style.objectPosition;
       nxt.onload = function(){ nxt.classList.add('on'); old.classList.remove('on'); };
-      nxt.src = src;
+      if(nxt.getAttribute('src') === src && nxt.complete) nxt.onload();   // 来回切到同一张时不一定再触发 load
+      else nxt.src = src;
       bgOn = 1 - bgOn;
     }
     function sync(){
